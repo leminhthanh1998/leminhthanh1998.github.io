@@ -6,7 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!--Bootstrap-->
-    <link rel="stylesheet" href="source/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+    
+
+<link rel="stylesheet" href="source/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
         crossorigin="anonymous">
     <!--JS-->
     <script src="source/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -39,6 +41,8 @@
     <!--Popup-->
     <link rel="stylesheet" href="css/magnific-popup.css">
 
+
+
     <style>
         body {
             background-color: lightgray;
@@ -49,7 +53,7 @@
 
 <body>
 
-    <div data-vide-bg="videoplayback.mp4" data-vide-options="loop: true, muted: false, position: 0% 0%">
+    <div id="wrapper">
 
         <div class="row">
             <div class="col-lg-6">
@@ -98,13 +102,21 @@
                 <img src="image/1_264628.jpg" class="hinhtruong" class="img-rounded" alt="Cinque Terre">
             </div>
         </div>
-
+        
+        <!--Nhạc-->
         <div width="50%" height="50%" style="margin:0 auto;" class="row">
             <div class="col-lg-12">
                 <iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/44827202&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
             </div>
         </div>
 
+        <!--Video background-->
+        <script type="text/javascript" charset="utf-8" src="js/jquery.tubular.1.0.js"></script>
+        <script>
+            $(document).ready(function () {
+                $('#wrapper').tubular({ videoId: 'yoagJ5vSwXA' }); // where idOfYourVideo is the YouTube ID.
+            });
+        </script>
         <!--css này làm cho khung palaroid bên dưới padding 10px-->
         <style>
             #palaroid {
@@ -300,13 +312,14 @@
                         font-family: 'Times New Roman', Times, serif;
                         font-size: 120%;
                         font-weight: bold;
+                        color: white;
                     }
                 </style>
 
                 <div class="demo-card-wide1 mdl-card mdl-shadow--2dp">
                     <div class="mdl-card__title">
                         <h2 class="mdl-card__title-text">
-                            <a class="popup-youtube" href="https://www.youtube.com/watch?v=QElx1Aq6mTs"p id="hochiminh" style="color: white">Miền Nam</a>
+                            <a class="popup-youtube" href="https://www.youtube.com/watch?v=QElx1Aq6mTs" p id="hochiminh" style="color: white">Miền Nam</a>
                         </h2>
                     </div>
                     <div class="mdl-card__supporting-text">
@@ -345,6 +358,7 @@
                         font-family: 'Times New Roman', Times, serif;
                         font-size: 120%;
                         font-weight: bold;
+                        color: white;
                     }
                 </style>
 
@@ -390,17 +404,18 @@
                         font-family: 'Times New Roman', Times, serif;
                         font-size: 120%;
                         font-weight: bold;
+                        color: white;
                     }
                 </style>
 
-                <div  class="demo-card-wide3 mdl-card mdl-shadow--2dp">
-                    <div  class="mdl-card__title">
-                        <h2  class="mdl-card__title-text">
+                <div class="demo-card-wide3 mdl-card mdl-shadow--2dp">
+                    <div class="mdl-card__title">
+                        <h2 class="mdl-card__title-text">
                             <a class="popup-youtube" href="https://www.youtube.com/watch?v=JXyzS6uT6nk" id="dalat" style="color: white">Miền Trung</a>
                         </h2>
                     </div>
                     <div class="mdl-card__supporting-text">
-                        <p >Thành phố Đà Lạt là tỉnh lỵ của tỉnh Lâm Đồng, nằm trên cao nguyên Lâm Viên, thuộc vùng Tây Nguyên,
+                        <p>Thành phố Đà Lạt là tỉnh lỵ của tỉnh Lâm Đồng, nằm trên cao nguyên Lâm Viên, thuộc vùng Tây Nguyên,
                             Việt Nam. Từ xa xưa, vùng đất này vốn là địa bàn cư trú của những cư dân người Lạch, người Chil
                             và người Srê thuộc dân tộc Cơ Ho. Cuối thế kỷ 19, khi tìm kiếm một địa điểm để xây dựng trạm
                             nghỉ dưỡng dành cho người Pháp ở Đông Dương, Toàn quyền Paul Doumer đã quyết định chọn cao nguyên
@@ -421,7 +436,7 @@
             </div>
         </div>
     </div>
-    
+
     <script src="js/jquery.magnific-popup.js"></script>
     <script>
         $(document).ready(function () {
@@ -435,7 +450,7 @@
                 fixedContentPos: false
             });
         });</script>
-        
+
 </body>
 
 </html>
