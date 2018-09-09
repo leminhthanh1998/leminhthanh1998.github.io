@@ -24,6 +24,14 @@ Lưu ý: Những trang web trong danh sách khi truy cập có thể sẽ không
 1.6
 -Bổ sung tính năng chặn các ứng dụng truy cập Internet.
 -Bổ sung tính năng Thiết lập thời gian được phép truy cập Internet.
+-Từ phiên bản 1.6 chỉ hỗ trợ từ HĐH Windows 8 trở lên.
 1.6.1
 -Sửa lỗi khi khởi động lần đầu từ file cài đặt.
 -Từ phiên bản 1.6.1 khi gỡ cài đặt phần mềm sẽ phải nhập mật khẩu bảo vệ.
+1.7
+-Bảo sung các tính năng bảo vệ sự riêng tư khi truy cập Internet.
+-Bạn đã có thể chọn các ứng dụng để lọc truy cập Internet trên chúng.
+-Bổ sung tùy chọn Chặn tải tệp tin thực thi.
+-Sửa 1 lỗi khá nghiêm trọng trong tính năng Chặn ứng dụng truy cập Internet.
+-Thay đổi cách thức hiển thị thông báo.
+-Cập nhật WinDivert.
