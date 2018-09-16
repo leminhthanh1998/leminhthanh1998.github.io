@@ -35,3 +35,7 @@ Lưu ý: Những trang web trong danh sách khi truy cập có thể sẽ không
 -Sửa 1 lỗi khá nghiêm trọng trong tính năng Chặn ứng dụng truy cập Internet.
 -Thay đổi cách thức hiển thị thông báo.
 -Cập nhật WinDivert.
+1.8
+-Tính năng Phát hiện hình ảnh không còn ở giai đoạn beta. Tính năng này cho phép phát hiện và loại bỏ hình ảnh có nội dung khiêu dâm.
+-Sửa lỗi khi lưu cài đặt.
+-Cập nhật lại tiến trình ProtectAntiPorn.
