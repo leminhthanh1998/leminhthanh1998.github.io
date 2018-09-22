@@ -39,3 +39,9 @@ Lưu ý: Những trang web trong danh sách khi truy cập có thể sẽ không
 -Tính năng Phát hiện hình ảnh không còn ở giai đoạn beta. Tính năng này cho phép phát hiện và loại bỏ hình ảnh có nội dung khiêu dâm.
 -Sửa lỗi khi lưu cài đặt.
 -Cập nhật lại tiến trình ProtectAntiPorn.
+1.9
+-Bổ sung tính năng Chặn những liên kết độc hại/lừa đảo.
+-Bổ sung tính năng Chặn mã độc đào tiền ảo.
+-Di chuyển tính năng Chặn tải tệp tin thực thi sang tab Cài đặt an toàn.
+-Cập nhật lại giao diện.
+-Cập nhật lại tính năng chặn trang web.

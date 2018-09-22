@@ -1,77 +1,58 @@
-﻿<!DOCTYPE html>
-<html lang="vi">
-
+﻿<html lang="vi">
 <head>
-    <meta charset="utf-8">
-    <title>LMT Anti Porn</title>
+<title>- ooops! -</title>
+<meta charset="utf-8">
+<style>
+body {
+    background:#0000aa;
+    color:#ffffff;
+    font-family:courier;
+    font-size:12pt;
+    text-align:center;
+    margin:100px;
+}
 
-    <style>
-        body {
-            background-color: transparent;
-            margin: 0px;
-        }
+blink {
+    color:yellow;
+}
 
-        div#wrapper {
-            display: table;
-            text-align: center;
-            color: #647687;
-            height: 0px;
-            position: absolute;
-            overflow: visible;
-            display: block;
-            width: 100%;
-            left: 0px;
-            top: 50%;
-        }
+.neg {
+    background:#fff;
+    color:#0000aa;
+    padding:2px 8px;
+    font-weight:bold;
+}
 
-        div#center {
-            background-color: transparent;
-            overflow: hidden;
-            position: absolute;
-            left: 50%;
-            margin-left: -200px;
-            width: 400px;
-            height: 300px;
-            top: -150px;
-        }
+p {
+    margin:30px 100px;
+    text-align:left;
+}
 
-        div#center > child {
-            display: table-cell;
-            text-align: center;
-            vertical-align: middle;
-        }
-    </style>
+a,a:hover {
+    color:inherit;
+    font:inherit;
+}
+
+.menu {
+    text-align:center;
+    margin-top:50px;
+}
+</style>
 </head>
+<body>
+<span class="neg">Lỗi Lỗi Lỗi</span>
+<p>
+LMT Anti Porn đã chặn truy cập đến địa chỉ này!<br />
+Dường như trang web này có trong danh sách chặn hoặc có từ khóa không được phép!	
+</p>
+<p>
+* Yêu Tổ quốc, yêu đồng bào.<br />
+* Học tập tốt, lao động tốt.<br />
+* Đoàn kết tốt, kỷ luật tốt.<br />
+* Giữ gìn vệ sinh thật tốt.<br />
+* Khiêm tốn, thật thà, dũng cảm.<br />
+</p>
+Lời dạy các cháu thiếu niên, nhi đồng - Chủ tịch Hồ Chí Minh <blink>_</blink>
 
-<body id="home">
-
-    <div id="wrapper">
-        <div id="center">
-            <h1>Sao tui lại ở đây??</h1>
-            <p>Có lẽ bạn đã truy cập vào 1 trang web bị chặn hoặc có nội dung không phù hợp!</p>
-        </div>
-    </div>
-
-    <script>
-        document.onreadystatechange = function () {
-
-            function inIframe() {
-                try {
-                    return window.self !== window.top;
-                } catch (e) {
-                    return true;
-                }
-            }
-
-            if (document.readyState.toUpperCase() == "complete".toUpperCase()) {
-
-                if (inIframe()) {
-                    document.getElementById('wrapper').setAttribute("display", "none");
-                } else {
-                    console.log('nope');
-                }
-            }
-        }
-    </script>
 </body>
 </html>
