@@ -45,3 +45,5 @@ Lưu ý: Những trang web trong danh sách khi truy cập có thể sẽ không
 -Di chuyển tính năng Chặn tải tệp tin thực thi sang tab Cài đặt an toàn.
 -Cập nhật lại giao diện.
 -Cập nhật lại tính năng chặn trang web.
+1.9.1
+-Sửa 1 lỗi nghiêm trọng ở tính năng Chặn trang web.
