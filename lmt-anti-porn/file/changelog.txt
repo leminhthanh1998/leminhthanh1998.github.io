@@ -2,6 +2,8 @@
 Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 ----------------------------------
 Changelog:
+2.0.1:
+-Sửa lỗi không đăng nhập được trên các website khi bật tính năng Chặn quảng cáo.
 2.0:
 -Thiết kế lại trang chủ của phần mềm.
 -Bổ sung tính năng chặn quảng cáo.
