@@ -2,6 +2,12 @@
 Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 ----------------------------------
 Changelog:
+2.1:
+-Bổ sung tính năng chặn "đã xem" và "đang trả lời" trong trò chuyện Facebook và Messenger.
+-Sửa lỗi ở tính năng Trang web cho phép.
+-Sửa lỗi ở tính năng Chặn trang web độc hại.
+-Sửa lỗi ở tính năng Do Not Track.
+-Sửa lỗi không tương thích với phần mềm Internet Download Manager.
 2.0.1:
 -Sửa lỗi không đăng nhập được trên các website khi bật tính năng Chặn quảng cáo.
 2.0:
