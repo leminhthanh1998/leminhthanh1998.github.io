@@ -2,6 +2,10 @@
 Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 ----------------------------------
 Changelog:
+2.2:
+-Bổ sung tính năng Cập nhật CSDL online.
+-Bổ sung tính năng chặn mở các hình ảnh có nội dung người lớn trên máy tính.
+-Một vài chỉnh sửa khác.
 2.1:
 -Bổ sung tính năng chặn "đã xem" và "đang trả lời" trong trò chuyện Facebook và Messenger.
 -Sửa lỗi ở tính năng Trang web cho phép.
