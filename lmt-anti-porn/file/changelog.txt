@@ -2,6 +2,8 @@
 Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 ----------------------------------
 Changelog:
+2.2.2:
+-Bổ sung tính năng vô hiệu hóa việc sử dụng Proxy.
 2.2.1:
 -Hỗ trợ HĐH Windows 7. Lưu ý: Hiện tại không hỗ trợ các tính năng Phát hiện hình ảnh trực tuyến và ngoại tuyến đối với HĐH Windows 7.
 -Cập nhật lại các thư viện.
