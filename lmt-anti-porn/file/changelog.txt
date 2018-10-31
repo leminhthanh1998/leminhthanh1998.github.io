@@ -2,6 +2,9 @@
 Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 ----------------------------------
 Changelog:
+2.2.3:
+-Bổ sung tính năng bảo vệ thư mục cài đặt phần mềm.
+-Cập nhật tiến trình ProtectAntiPorn.
 2.2.2:
 -Bổ sung tính năng vô hiệu hóa việc sử dụng Proxy.
 2.2.1:
