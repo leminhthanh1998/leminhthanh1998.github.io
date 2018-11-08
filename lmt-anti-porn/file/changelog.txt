@@ -2,6 +2,9 @@
 Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 ----------------------------------
 Changelog:
+2.2.4:
+-Bổ sung tính năng thử thách NoFap.
+-Cập nhật tính năng bảo vệ thư mục.
 2.2.3:
 -Bổ sung tính năng bảo vệ thư mục cài đặt phần mềm.
 -Cập nhật tiến trình ProtectAntiPorn.
