@@ -2,6 +2,12 @@
 Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 ----------------------------------
 Changelog:
+2.3:
+-Bổ sung tính năng Thay đổi các từ khóa bị chặn trong trang web.
+-Tính năng Chặn theo nội dung đã nhận diện các từ khóa chính xác hơn.
+-Cập nhật tính năng NoFap Chanllenge.
+-Tùy chọn Bảo vệ thư mục được bật mặc định.
+-Cập nhật thư viện.
 2.2.4:
 -Bổ sung tính năng thử thách NoFap.
 -Cập nhật tính năng bảo vệ thư mục.
