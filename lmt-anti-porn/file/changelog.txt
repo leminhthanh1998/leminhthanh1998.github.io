@@ -2,8 +2,11 @@
 Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 ----------------------------------
 Changelog:
+2.3.2:
+-Sửa tiếp 1 lỗi ở tính năng Bảo vệ duyệt web.
+Không hiểu sao tới giờ này thanh niên tác giả mới phát hiện ra lỗi đó.
 2.3.1:
--Sửa lỗi ở tính năng bảo vệ duyệt web.
+-Sửa lỗi ở tính năng Bảo vệ duyệt web.
 -Sửa lỗi phần mềm không lọc website khi máy tính bị tắt tường lửa.
 2.3:
 -Bổ sung tính năng Thay đổi các từ khóa bị chặn trong trang web.
