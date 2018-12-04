@@ -2,6 +2,8 @@
 Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 ----------------------------------
 Changelog:
+2.3.3:
+-Sửa lỗi không thể kích hoạt tính năng Tìm kiếm an toàn.
 2.3.2:
 -Sửa tiếp 1 lỗi ở tính năng Bảo vệ duyệt web.
 Không hiểu sao tới giờ này thanh niên tác giả mới phát hiện ra lỗi đó.
