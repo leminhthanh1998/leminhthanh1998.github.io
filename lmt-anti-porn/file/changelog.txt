@@ -3,6 +3,8 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+2.4.1:
+-Cập nhật lại tính năng Chặn tải tệp tin thực thi (.exe).
 2.4:
 -Cập nhật tính năng Thiết lập thời gian. Bây giờ bạn đã có thể thiết lập thời gian cho các ngày cụ thể trong tuần.
 -Bổ sung tính năng thiết lập độ nhạy khi sử dụng CSDL online.
