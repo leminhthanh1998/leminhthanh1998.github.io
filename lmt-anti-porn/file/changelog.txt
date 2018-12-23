@@ -3,6 +3,11 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+2.4.2:
+-Từ phiên bản này việc cập nhật phần mềm đã trở nên đơn giản hơn.
+LMT Anti Porn sẽ giúp bạn tải về và chạy file cài đặt.
+-Cập nhật lại tính năng Ẩn địa chỉ IP.
+-Sửa lỗi ở tính năng Bảo vệ duyệt web.
 2.4.1:
 -Cập nhật lại tính năng Chặn tải tệp tin thực thi (.exe).
 2.4:
