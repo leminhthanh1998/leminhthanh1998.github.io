@@ -8,6 +8,7 @@ Changelog:
 LMT Anti Porn sẽ giúp bạn tải về và chạy file cài đặt.
 -Cập nhật lại tính năng Ẩn địa chỉ IP.
 -Sửa lỗi ở tính năng Bảo vệ duyệt web.
+-Cập nhật tính năng Tự động kiểm tra cập nhật.
 2.4.1:
 -Cập nhật lại tính năng Chặn tải tệp tin thực thi (.exe).
 2.4:
