@@ -3,13 +3,15 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+2.7 beta 1 (27-4-2019):
+-Hỗ trợ dịch vụ LMT Anti Porn Online. Đây là dịch vụ cho phép bạn điều khiểu phần mềm LMT Anti Porn từ xa.
+-Sửa 1 lỗi ở tính năng Chặn website. Lỗi phát sinh khi bạn xóa hết các website có trong danh sách chặn.
 2.6 (21-2-2019):
 -Bổ sung tính năng thiết lập các dịch vụ DNS nhằm nâng cao khả năng chặn các trang web người lớn.
 -Bổ sung tính năng xuất/nhập các dữ liệu cài đặt của phần mềm.
 -Bạn đã có thể thay đổi nội dung tại trang thông báo khi chặn trang web.
 -Bạn đã có thể chuyển hướng trang web bị chặn đến 1 địa chỉ khác.
 -Sửa lỗi khi lưu cài đặt thời gian làm phần mềm bị lỗi không thể khởi động.
-
 2.5 (27-12-2018):
 -Hỗ trợ sử dụng các cú pháp của Adblock Plus để thiết lập việc chặn các trang web.
 Điều này giúp bạn chặn các trang web một cách chính xác với nhiều tùy chọn khác nhau.
