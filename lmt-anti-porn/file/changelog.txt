@@ -3,6 +3,10 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+2.7 (18-5-2019):
+-LMT Anti Porn Online chính thức hoạt động, không còn giai đoạn beta. Ở các phiên bản sau sẽ hỗ trợ đồng bộ hết các tùy chọn.
+-Bổ sung tính năng kích hoạt DNS over HTTPS của Cloudflare giúp lướt web an toàn.
+-Sửa lỗi phần mềm tự động kích hoạt lại khi đã "Dừng lọc".
 2.7 beta 2 (4-5-2019):
 -Sửa lỗi phần mềm bị crash khi không có kết nối mạng.
 2.7 beta 1 (27-4-2019):
