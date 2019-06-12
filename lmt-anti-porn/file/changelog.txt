@@ -3,6 +3,11 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+2.9 (12/6/2019):
+-Bổ sung trang Cloud cho phép bạn xem trạng thái của CSDL online. Bạn cũng có thể đóng góp thêm các tên miền còn thiếu.
+-Bổ sung tính năng Chặn truy cập đến các trang web game online.
+-Hỗ trợ thêm Pixabay Safesearch.
+-Loại bỏ tính năng Nofap Challenge.
 2.8 (1/6/2019):
 -Bổ sung tính năng Chặn những địa chỉ đắng ngờ (những địa chỉ web dạng IP).
 -Bổ sung tính năng Chặn truy cập đến các trang DarkWeb (cụ thể là các mạng Tor).
