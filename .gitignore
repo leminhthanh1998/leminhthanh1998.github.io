@@ -1,2 +1,2 @@
 # Include DLLs if they're in the NuGet packages directory
-!_framework/_bin/*.dll
+!/asteroids/_framework/_bin/*.dll
