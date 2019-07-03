@@ -4,8 +4,7 @@ Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZ
 ----------------------------------
 Changelog:
 3.0 (22/6/2019):
--Bổ sung tùy chọn Machine Learning. Khi kích hoạt tính năng này, phần mềm sẽ gửi tiêu đề cùng với url của trang web bạn đang truy cập đến 
-hệ thống LMT Anti Porn Online, tại đây sẽ sử dụng các thuật toán Machine Learning để tiến hành phân tích, sau đó tổng hợp vào hệ thống CSDL online.
+-Bổ sung tùy chọn Machine Learning. Khi kích hoạt tính năng này, phần mềm sẽ gửi tiêu đề cùng với url của trang web bạn đang truy cập đến hệ thống LMT Anti Porn Online, tại đây sẽ sử dụng các thuật toán Machine Learning để tiến hành phân tích, sau đó tổng hợp vào hệ thống CSDL online.
 -Cập nhật lại giao diện, bổ sung Dark Theme.
 -Sửa lỗi phần mềm bị crash khi bật tính năng chặn quảng cáo.
 -Sửa lỗi các cài đặt đôi khi bị reset về mặc định.
