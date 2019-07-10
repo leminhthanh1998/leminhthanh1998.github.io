@@ -3,6 +3,9 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+3.1 (9/7/2019):
+-Từ phiên bản này đã hỗ trợ thiết lập gần như đầy đủ các tính năng của phần mềm từ dịch vụ LMT Anti Porn Online. Các bạn nên đồng bộ phần mềm với dịch vụ này.
+-Cập nhật lại tính năng bảo vệ thư mục cài đặt.
 3.0 (22/6/2019):
 -Bổ sung tùy chọn Machine Learning. Khi kích hoạt tính năng này, phần mềm sẽ gửi tiêu đề cùng với url của trang web bạn đang truy cập đến hệ thống LMT Anti Porn Online, tại đây sẽ sử dụng các thuật toán Machine Learning để tiến hành phân tích, sau đó tổng hợp vào hệ thống CSDL online.
 -Cập nhật lại giao diện, bổ sung Dark Theme.
