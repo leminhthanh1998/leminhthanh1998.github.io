@@ -3,6 +3,10 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+3.2 (6/8/2019):
+-Cải thiện hiệu suất, giờ phần mềm đã chặn các website người lớn và độc hại nhanh hơn.
+-Cập nhật lại các API. Các API cũ đã tắt, bạn cần phải cập nhật lên phiên bản này để có thể dùng được các chức năng của phần mềm.
+-Ngưng hỗ trợ Windows 7.
 3.1.1 (18/7/2019):
 -Bổ sung tính năng xóa tham số "fbclid" khỏi các liên kết nhầm tránh Facebook và các website theo dõi bạn.
 -Cập nhật lại việc lưu trữ mật khẩu.
