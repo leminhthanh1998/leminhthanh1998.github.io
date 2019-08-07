@@ -3,6 +3,8 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+3.2.1 (7/8/2019):
+-Cập nhật API.
 3.2 (6/8/2019):
 -Cải thiện hiệu suất, giờ phần mềm đã chặn các website người lớn và độc hại nhanh hơn.
 -Cập nhật lại các API. Các API cũ đã tắt, bạn cần phải cập nhật lên phiên bản này để có thể dùng được các chức năng của phần mềm.
