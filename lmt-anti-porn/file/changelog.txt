@@ -3,6 +3,8 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+3.2.2 (7/8/2019):
+-Sửa 1 lỗi quan trọng của phần mềm.
 3.2.1 (7/8/2019):
 -Cập nhật API.
 3.2 (6/8/2019):
