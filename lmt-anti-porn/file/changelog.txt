@@ -3,6 +3,9 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+3.2.4 (20/8/2019):
+-Sửa lỗi ở tính năng Tự bảo vệ.
+-Bổ sung tùy chọn xóa cache.
 3.2.3 (14/8/2019):
 -Bổ sung tính năng Tự động cập nhật phần mềm. Khi bật tùy chọn này, phần mềm sẽ tự động nâng cấp lên phiên bản mới khi có sẵn.
 -Sửa lỗi ở tính năng Chặn theo từ khóa khi bật tùy chọn sử dụng Machine Learning.
