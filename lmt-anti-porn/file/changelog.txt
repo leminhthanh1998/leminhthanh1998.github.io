@@ -3,6 +3,9 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+3.2.5 (22/8/2019):
+-Bổ sung tính năng bật/tắt phần mềm từ LMT Anti Porn Online.
+-Chỉnh sửa lại tính năng Tự động cập nhật.
 3.2.4 (20/8/2019):
 -Sửa lỗi ở tính năng Tự bảo vệ.
 -Bổ sung tùy chọn xóa cache.
