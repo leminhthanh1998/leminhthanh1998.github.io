@@ -3,6 +3,10 @@ Website: https://leminhthanh1998.github.io/lmt-anti-porn/
 Các video hướng dẫn: https://www.youtube.com/playlist?list=PLKKmCuT-57x8ZZE26VVhib2FRJoEnwq36
 ----------------------------------
 Changelog:
+3.3 (27/8/2019):
+-Bổ sung tính năng sử dụng các filter list. Bạn có thể dùng Easylist, Adguard Filter list,...để tăng khả năng chặn quảng cáo, các script theo dõi,...
+-Cập nhật lại tính năng chặn website.
+-Cập nhật các thư viện.
 3.2.5 (22/8/2019):
 -Bổ sung tính năng bật/tắt phần mềm từ LMT Anti Porn Online.
 -Chỉnh sửa lại tính năng Tự động cập nhật.
