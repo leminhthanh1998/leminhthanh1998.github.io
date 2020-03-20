@@ -2,7 +2,13 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh1998.github.io/lmt-anti-logger/
 ----------------------------------
 Changelog:
+2.2 (19/3/2020):
+-Bổ sung tính năng kích hoạt phần mềm ở Winlogon, bạn chỉ cần click vào nút Ease of access ở màn hình Login để khởi động LMT Anti Logger
+-Mã hóa dữ liệu clipboard ở tính năng chống Clipboardlogger.
+-Bổ sung thêm cửa sổ cài đặt phần mềm.
 2.1 (14/3/2020):
 -Bổ sung tính năng chặn Clipboardlogger.
 -Cập nhật tính năng chặn Keylogger.
 -1 vài chỉnh sửa khác.
+2.0 (13/3/2020):
+-Phiên bản đầu tiên.
