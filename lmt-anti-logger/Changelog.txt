@@ -2,6 +2,9 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh1998.github.io/lmt-anti-logger/
 ----------------------------------
 Changelog:
+2.4 (31/3/2020):
+-Bổ sung tính năng LMT Anti Logger Scanner, giúp quét tìm các phần mềm keylogger có trên máy tính.
+-Sửa 1 vài lỗi nhỏ.
 2.3 (27/3/2020):
 -Bổ sung tính năng Quản lý mật khẩu, giúp đảm bảo mật khẩu bạn an toàn trước các loại keylogger.
 -Cập nhật tính năng chặn keylogger.
