@@ -2,6 +2,8 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh1998.github.io/lmt-anti-logger/
 ----------------------------------
 Changelog:
+2.7 (10/4/2020):
+-Bổ sung tính năng bảo vệ thời gian thực, giúp bạn bảo vệ máy tính khỏi những mối nguy hiểm như virus/trojan/keylogger.
 2.6 (7/4/2020):
 -Bổ sung tính năng cấu hình Windows Security, giúp đem lại cho bạn hiệu quả bảo vệ tốt nhất!
 -Bổ sung VoodooAI vào tính năng quét tìm keyloggers.
