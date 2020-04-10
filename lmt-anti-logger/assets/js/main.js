@@ -1,6 +1,6 @@
 /**
-* Template Name: Ninestars - v2.0.0
-* Template URL: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/
+* Template Name: Knight - v2.0.0
+* Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -14,10 +14,11 @@
       var target = $(this.hash);
       if (target.length) {
 
-        var scrollto = target.offset().top;
+        var scrollto = target.offset().top + 2;
 
         if ($('#header').length) {
-          scrollto -= $('#header').outerHeight();
+          scrollto -= $('#header').outerHeight()
+
         }
 
         if ($(this).attr("href") == '#header') {
@@ -49,6 +50,7 @@
       class: 'mobile-nav d-lg-none'
     });
     $('body').append($mobile_nav);
+    $('.mobile-nav .nav-logo').remove();
     $('body').prepend('<button type="button" class="mobile-nav-toggle d-lg-none"><i class="icofont-navigation-menu"></i></button>');
     $('body').append('<div class="mobile-nav-overly"></div>');
 
@@ -77,6 +79,32 @@
   } else if ($(".mobile-nav, .mobile-nav-toggle").length) {
     $(".mobile-nav, .mobile-nav-toggle").hide();
   }
+
+  // Navigation active state on scroll
+  var nav_sections = $('section');
+  var main_nav = $('.nav-menu, #mobile-nav');
+
+  $(window).on('scroll', function() {
+    var cur_pos = $(this).scrollTop() + 110;
+
+    nav_sections.each(function() {
+      var top = $(this).offset().top,
+        bottom = top + $(this).outerHeight();
+
+      if (cur_pos >= top && cur_pos <= bottom) {
+        if (cur_pos <= bottom) {
+          main_nav.find('li').removeClass('active');
+        }
+        main_nav.find('a[href="#' + $(this).attr('id') + '"]').parent('li').addClass('active');
+      }
+    });
+  });
+
+  // Stick the header at top on scroll
+  $("#header").sticky({
+    topSpacing: 0,
+    zIndex: '50'
+  });
 
   // Back to top button
   $(window).scroll(function() {
@@ -116,28 +144,25 @@
     });
   });
 
-  // Clients carousel (uses the Owl Carousel library)
-  $(".clients-carousel").owlCarousel({
+  // Testimonials carousel (uses the Owl Carousel library)
+  $(".testimonials-carousel").owlCarousel({
     autoplay: true,
     dots: true,
     loop: true,
-    responsive: {
-      0: {
-        items: 2
-      },
-      768: {
-        items: 4
-      },
-      900: {
-        items: 6
-      }
-    }
+    items: 1
+  });
+
+  // Portfolio details carousel
+  $(".portfolio-details-carousel").owlCarousel({
+    autoplay: true,
+    dots: true,
+    loop: true,
+    items: 1
   });
 
   // Initi AOS
   AOS.init({
-    duration: 800,
-    easing: "ease-in-out"
+    duration: 600
   });
 
 })(jQuery);
