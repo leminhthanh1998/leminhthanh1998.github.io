@@ -11,11 +11,13 @@ Changelog:
 -Added Microphone Guard. It will notify you when a software tries to access your microphone.
 -Improved Kill and Delete function. I have implemented multi methods to help kill and delete processes.
 -Fix some bugs.
+
 3.2.1 (28/4/2020):
 [Vietnamese]:
 -Sửa 1 lỗi ngu vl.
 [English]:
 -Fix a stupid bug.
+
 3.2 (27/4/2020):
 [Vietnamese]:
 -Bổ sung tùy chọn cho phép tự động quyết định hành động dựa vào kết quả từ Virustotal.
@@ -26,6 +28,7 @@ Changelog:
 -Improved Realtime protection
 -Added view log file.
 -Fix some bugs.
+
 3.1 (24/4/2020):
 [Vietnamese]:
 -Bổ sung tính năng bảo vệ registry. Phần mềm sẽ thông báo cho bạn khi phát hiện các process cố gắng truy cập vào các khóa registry nhạy cảm.
@@ -35,6 +38,7 @@ Changelog:
 -Added Registry Guard. It will notify you when a software tries to access critical registry keys.
 -Added "Kill" option.
 -Fix some bugs.
+
 3.0 (21/4/2020):
 [Vietnamese]:
 -Bổ sung tính năng bảo vệ mật khẩu trình duyệt.
@@ -46,6 +50,7 @@ Changelog:
 -Added AI to help increase malware detection.
 -Updated UI.
 -Fixed some bug.
+
 2.9 (16/4/2020):
 -Bổ sung tính năng Mua sắm an toàn.
 -Sửa 1 số lỗi trong quá trình hoạt động của phần mềm.
