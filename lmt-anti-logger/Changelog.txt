@@ -2,6 +2,15 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh1998.github.io/lmt-anti-logger/
 ----------------------------------
 Changelog:
+3.3 (30/4/2020):
+[Vietnamese]:
+-Bổ sung tính năng bảo vệ Microphone. Phần mềm sẽ thông báo cho bạn khi phát hiện các process cố gắng truy cập microphone.
+-Cập nhật tính năng Kill và Delete. Bổ sung thêm các phương pháp giúp kill và xóa các process.
+-Sửa 1 vài lỗi.
+[English]:
+-Added Microphone Guard. It will notify you when a software tries to access your microphone.
+-Improved Kill and Delete function. I have implemented multi methods to help kill and delete processes.
+-Fix some bugs.
 3.2.1 (28/4/2020):
 [Vietnamese]:
 -Sửa 1 lỗi ngu vl.
