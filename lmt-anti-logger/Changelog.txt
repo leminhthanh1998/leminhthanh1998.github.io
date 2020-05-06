@@ -7,7 +7,7 @@ Changelog:
 -Từ giờ bạn đã có thể sử dụng LMT Anti Logger để quét file bằng các phương pháp gồm Virustotal, AI và heuristic. Lưu ý hiện tại phần mềm chỉ hỗ trợ file tối đa 20 MB.
 -Bổ sung tùy chọn tự động upload file lên Virustotal.
 [English]:
--You can now use LMT Anti Logger to scan files using Virustotal, AI and heuristic. Note that currently only supports files up to 20 MB.
+-Now you can use LMT Anti Logger to scan files using Virustotal, AI and heuristic. Note that currently only supports files up to 20 MB.
 -Addes options allow automatic upload files to Virustotal.
 
 3.4 (3/5/2020);
