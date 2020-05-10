@@ -6,7 +6,7 @@ Changelog:
 [Vietnamese]:
 -Bổ sung tính năng bảo vệ DNS. Phần mềm sẽ thông báo khi DNS trên máy tính của bạn bị thay đổi và cho phép bạn thiêt lập DNS lại.
 [English]:
-The software will notify you when the DNS on your computer has been changed and allows you restore DNS.
+-Added DNS Guard. The software will notify you when the DNS on your computer has been changed and allows you restore DNS.
 
 3.5.1 (8/5/2020);
 [Vietnamese]:
