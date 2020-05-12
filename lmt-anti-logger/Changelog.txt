@@ -2,6 +2,14 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh1998.github.io/lmt-anti-logger/
 ----------------------------------
 Changelog:
+3.6.1 (12/5/2020):
+[Vietnamese]:
+-Bổ sung tính năng Bảo vệ trang chủ trình duyệt. Phần mềm sẽ thông báo khi trang chủ trình duyệt của bạn bị thay đổi. Hiện tại chỉ hỗ trợ Google Chrome và MS Edge Chromium.
+-Bổ sung ngôn ngữ Pháp - Thanks to Christophe from SOSPC.
+[English]:
+-Added Homepage Guard. The software will notify you when your browser homepage is changed. Currently only supports Google Chrome and MS Edge Chromium.
+-Added French language - Thanks to Christophe from SOSPC.
+
 3.6 (10/5/2020):
 [Vietnamese]:
 -Bổ sung tính năng bảo vệ DNS. Phần mềm sẽ thông báo khi DNS trên máy tính của bạn bị thay đổi và cho phép bạn thiêt lập DNS lại.
