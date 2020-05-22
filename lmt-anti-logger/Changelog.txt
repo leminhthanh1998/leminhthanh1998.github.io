@@ -2,7 +2,7 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh1998.github.io/lmt-anti-logger/
 ----------------------------------
 Changelog:
-3.7 (22/5/2020):
+3.8 (22/5/2020):
 [Vietnamese]
 -Bổ sung tính năng Tường lửa. Phần mềm sẽ thông báo cho bạn khi có 1 chương trình không đáng tin cập kết nối internet. Từ đó cho phép bạn quyết định có chặn nó hay không.
 -Sửa lỗi ở tính năng bảo vệ thời gian thực.
