@@ -2,6 +2,16 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh1998.github.io/lmt-anti-logger/
 ----------------------------------
 Changelog:
+3.7 (22/5/2020):
+[Vietnamese]
+-Bổ sung tính năng Tường lửa. Phần mềm sẽ thông báo cho bạn khi có 1 chương trình không đáng tin cập kết nối internet. Từ đó cho phép bạn quyết định có chặn nó hay không.
+-Sửa lỗi ở tính năng bảo vệ thời gian thực.
+-Từ giờ LMT Anti Logger đã hỗ trợ Windows 7, 8 và 8.1. Tuy nhiên 1 số tính năng sẽ không khả dụng trên Windows 7.
+[English]:
+-Added Basic Firewall. The software will notify you when an untrusted program tries to access the internet.Then allows you to decide whether or not to block it.
+-Fixed a bug in realtime protection.
+-Now version 3.8 will support Windows 7, 8, 8.1 and 10 x64. But some features will not work on Windows 7.
+
 3.7 (15/5/2020):
 [Vietnamese]:
 -Cải thiện tính năng Bảo vệ thư mục. Giờ nó thật sự mạnh, sẽ giúp bạn bảo vệ các tệp tin trong thư mục khỏi những truy cập trái phép.
