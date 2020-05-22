@@ -9,7 +9,7 @@ Changelog:
 -Từ giờ LMT Anti Logger đã hỗ trợ Windows 7, 8 và 8.1. Tuy nhiên 1 số tính năng sẽ không khả dụng trên Windows 7.
 -Cập nhật giao diện.
 [English]:
--Added Basic Firewall. The software will notify you when an untrusted program tries to access the internet.Then allows you to decide whether or not to block it.
+-Added Basic Firewall. The software will notify you when an untrusted program tries to access the internet. Then allows you to decide whether or not to block it.
 -Fixed a bug in realtime protection.
 -Now version 3.8 will support Windows 7, 8, 8.1 and 10 x64. But some features will not work on Windows 7.
 -Updated UI.
