@@ -8,7 +8,7 @@ Changelog:
 -Sửa lỗi ở tính năng kiểm tra cập nhật.
 [English]:
 -Temporarily remove the LMT Anti Logger Scanner feature because it has too many false positives.
--Fix the bug in the check update.
+-Fix a bug in check update.
 
 3.9.1 (25/5/2020):
 [Vietnamese]:
