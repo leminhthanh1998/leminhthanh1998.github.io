@@ -9,7 +9,7 @@ Changelog:
 -Sửa 1 lỗi nghiêm trọng làm LTM Anti Logger sử dụng nhiều bộ nhớ.
 -Cải thiện tốc độ quét.
 [English]:
--Now you can exclude processes from Anti Keylogger feature.
+-Now you can exclude processes you don't want protect from Anti Keylogger feature.
 -Added: Show at Windows startup option.
 -Fixed a serious bug causing LMT Anti Logger use a lot of memory.
 -Improved scan speed.
