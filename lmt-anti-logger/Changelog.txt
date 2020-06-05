@@ -2,6 +2,18 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh1998.github.io/lmt-anti-logger/
 ----------------------------------
 Changelog:
+3.9.4 (5/6/2020):
+[Vietnamese]:
+-Từ phiên bản 3.9.x này, tui sẽ dùng nó như 1 phiên bản beta cho LMT Anti Logger 4.0. Nên nếu có lỗi trong quá trình sử dụng, các bạn có thể email cho tui.
+-Bổ sung tính năng Anti Executable, tính năng này sẽ chỉ cho phép những file tin tưởng được thực thi.
+Lưu ý: Tính năng này có thể sẽ tạo nhiều kết quả không chuẩn xác.
+-Sửa lỗi ở tính năng Tự động gửi file lên Virustotal.
+[English]:
+-From version 3.9.x, I will use it as a beta version for LMT Anti Logger 4.0. So if there are any errors during the use of the software, you can email me
+-Added: Anti Executable, this feature will only allow trusted files to be executed.
+Note: This feature may produce false positive results.
+-Fixed: A bug in Automatically send files to Virustotal option.
+
 3.9.3 (29/5/2020):
 [Vietnamese]:
 -Bổ sung Danh sách loại trừ những tiến trình bạn không muốn bảo vệ khỏi Keylogger.
