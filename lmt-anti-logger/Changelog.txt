@@ -2,6 +2,18 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh1998.github.io/lmt-anti-logger/
 ----------------------------------
 Changelog:
+4.0 (10/6/2020):
+[Vietnamese]:
+-Bổ sung tính năng Anti Executable. Khi bạn mở 1 file thực thi, LMT Anti Logger sẽ tiến hành quét file đó, nếu phát hiện là file không an toàn, LMT Anti Logger sẽ chặn truy cập đến file đó.
+-Giờ bạn đã có thể chỉnh sửa Whitelist từ giao diện ứng dụng.
+-Cập nhật tính năng Basic Firewall.
+-Cập nhật Registry Guard.
+[English]:
+-Added the Anti Executable feature. When you open an executable file, LMT Anti Logger will scan the file, if it detects file is unsafe, LMT Anti Logger will block access to that file.
+-Now you can edit Whitelist from the application interface.
+-Updated Basic Firewall feature.
+-Updated Registry Guard.
+
 3.9.4 (5/6/2020):
 [Vietnamese]:
 -Từ phiên bản 3.9.x này, tui sẽ dùng nó như 1 phiên bản beta cho LMT Anti Logger 4.0. Nên nếu có lỗi trong quá trình sử dụng, các bạn có thể email cho tui.
