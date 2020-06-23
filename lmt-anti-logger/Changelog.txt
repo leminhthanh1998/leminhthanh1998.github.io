@@ -1,7 +1,15 @@
 LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm hoặc mã độc chụp ảnh/quay video màn hình máy tính, đánh cắp dữ liệu ghi từ bàn phím hoặc clipboard của bạn!
-Website: https://leminhthanh1998.github.io/lmt-anti-logger/
+Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.2 (23/6/2020):
+[Vietnamese]:
+-Bổ sung tính năng Fileless Malware Protection, giúp bảo vệ bạn khỏi các cuộc tấn công của mã độc fileless.
+-Thay đổi vị trí xuất hiện các cửa sổ thông báo.
+[English]:
+-Added: Fileless Malware Protection, help protect you from fileless malware.
+-Change the location when notification windows appear.
+
 4.1.1 (19/6/2020):
 [Vietnamse]:
 -Tăng dung lượng file được quét.
