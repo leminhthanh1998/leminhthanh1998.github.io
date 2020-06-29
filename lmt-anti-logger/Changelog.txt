@@ -2,6 +2,12 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.4 (29/6/2020):
+[Vietnamese]:
+-Cải tiến tính năng Realtime Protection. Bây giờ nó có thể hoạt động như các phần mềm AV khác, LMT Anti Logger sẽ quét file trước khi nó thực thi và sẽ chặn thực thi nếu phát hiện là nguy hiểm.
+[English]:
+-Improved Realtime Protection. Now it can work like other AV software, LMT Anti Logger scans files before they are executed and can deny execution in case of malware.
+
 4.3 (27/6/2020):
 [Vietnamese]:
 -Cải tiến tính năng Folder Guard. Giờ thì bạn đã có thêm các tùy chọn như cho phép tạo file, đổi tên file, di chuyển file,...trong thư mục được bảo vệ.
