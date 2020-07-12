@@ -2,6 +2,14 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.5 (12/7/2020):
+[Vietnamese]:
+-Thêm tùy chọn Quét file ngay khi truy cập. LMT Anti Logger sử dụng File-System Filter Driver để tiến hành quét các file ngay khi chúng vừa xuất hiện.
+Lưu ý: Nếu bạn đã có phần mềm Antivirus, bạn có thể không cần phải kích hoạt tính năng này.
+[English]:
+-Added Scanning files on access option. LMT Anti Logger use File-System Filter Driver and scans files where they first enter the system.
+Note: If you already have Antivirus software installed, you may not need to enable this option.
+
 4.4.1 (5/7/2020):
 [Vietnamese]:
 -Bổ sung tùy chọn Tự động bỏ qua những ứng dụng tin tưởng ở Realtime Protection.
