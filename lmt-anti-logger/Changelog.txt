@@ -2,6 +2,18 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.5.1 (18/7/2020):
+[Vietnamese]:
+-Hỗ trợ định dạng .zip khi sử dụng tính năng Scan with LMT Anti Logger.
+-Cập nhật lại cửa sổ thông báo.
+-Loại bỏ tính năng Bảo vệ trang chủ vì nó không có hiệu quả.
+-Bổ sung tiếng Hàn Quốc, cảm ơn KOLANP.com đã hỗ trợ dịch thuật.
+[English]:
+-Support .zip format when using Scan with LMT Anti Logger feature.
+-Redesigned notification window.
+-Remove the Homepage Guard feature because it is not effective.
+-Added Korean language, thank KOLANP.com for his translation.
+
 4.5 (12/7/2020):
 [Vietnamese]:
 -Thêm tùy chọn Quét file ngay khi truy cập. LMT Anti Logger sử dụng File-System Filter Driver để tiến hành quét các file ngay khi chúng vừa xuất hiện.
