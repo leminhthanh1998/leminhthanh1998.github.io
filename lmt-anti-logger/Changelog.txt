@@ -1,4 +1,4 @@
-LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm hoặc mã độc chụp ảnh/quay video màn hình máy tính, đánh cắp dữ liệu ghi từ bàn phím hoặc clipboard của bạn!
+LMT Anti Logger - A software helps protect you from malware. Detect unknown threats, stay protected!
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
