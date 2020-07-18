@@ -11,7 +11,7 @@ Changelog:
 [English]:
 -Support .zip format when using Scan with LMT Anti Logger feature.
 -Redesigned notification window.
--Remove the Homepage Guard feature because it is not effective.
+-Removed the Homepage Guard feature because it is not effective.
 -Added Korean language, thank KOLANP.com for his translation.
 
 4.5 (12/7/2020):
