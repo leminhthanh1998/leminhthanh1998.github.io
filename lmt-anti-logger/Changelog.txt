@@ -2,6 +2,15 @@ LMT Anti Logger - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+
+4.6 (1/8/2020):
+[Vietnamese]:
+-Bổ sung Sandbox. Bây giờ bạn có thể chạy ứng dụng trong Sandbox khi phát hiện tiến trình độc hại hoặc không tin tưởng.
+-Cập nhật lại cửa sổ thông báo.
+[English]:
+-Added Sandbox. Now you can run the process in Sandbox when detecting malicious or untrusted processes.
+-Updated the notification window.
+
 4.5.2 (26/7/2020):
 [Vietnamese]:
 -Cải thiện tính năng Anti Keylogger.
