@@ -8,7 +8,7 @@ Changelog:
 -Bổ sung Sandbox. Bây giờ bạn có thể chạy ứng dụng trong Sandbox khi phát hiện tiến trình độc hại hoặc không tin tưởng.
 -Cập nhật lại cửa sổ thông báo.
 [English]:
--Added Sandbox. Now you can run the process in Sandbox when detecting malicious or untrusted processes.
+-Added Sandbox. Now you can run the process in Sandbox when it is detected as malicious or untrusted.
 -Updated the notification window.
 
 4.5.2 (26/7/2020):
