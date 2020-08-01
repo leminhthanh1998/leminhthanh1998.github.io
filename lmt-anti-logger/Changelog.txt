@@ -5,7 +5,7 @@ Changelog:
 
 4.6 (1/8/2020):
 [Vietnamese]:
--Bổ sung Sandbox. Bây giờ bạn có thể chạy ứng dụng trong Sandbox khi phát hiện tiến trình độc hại hoặc không tin tưởng.
+-Bổ sung Sandbox. Bây giờ bạn có thể chạy ứng dụng trong Sandbox khi phát hiện nó độc hại hoặc không tin tưởng.
 -Cập nhật lại cửa sổ thông báo.
 [English]:
 -Added Sandbox. Now you can run the process in Sandbox when it is detected as malicious or untrusted.
