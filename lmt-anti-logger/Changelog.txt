@@ -3,6 +3,12 @@ Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
 
+4.6.1 (2/8/2020):
+[Vietnamese]:
+-Sửa 1 lỗi ở tính năng Anti Keylogger có thể làm crash app.
+[English]:
+-Fixed a bug in the Anti Keylogger feature that caused an application crash
+
 4.6 (1/8/2020):
 [Vietnamese]:
 -Bổ sung Sandbox. Bây giờ bạn có thể chạy ứng dụng trong Sandbox khi phát hiện nó độc hại hoặc không tin tưởng.
