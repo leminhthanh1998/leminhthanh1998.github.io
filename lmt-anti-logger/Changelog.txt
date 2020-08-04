@@ -3,6 +3,14 @@ Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
 
+4.6.2 (4/8/2020):
+[Vietnamese]:
+-Sửa 1 lỗi ở tính năng Anti Keylogger.
+-Tạm thời vô hiệu hóa tính năng Registry Guard vì nó không có hiệu quả.
+[English]:
+-Fixed a bug in the Anti Keylogger feature.
+-Temporarily disable the Registry Guard feature because it is not effective.
+
 4.6.1 (2/8/2020):
 [Vietnamese]:
 -Sửa 1 lỗi ở tính năng Anti Keylogger có thể làm crash app.
