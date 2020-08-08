@@ -3,6 +3,16 @@ Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
 
+4.6.3 (8/8/2020):
+[Vietnamese]:
+-Bổ sung YARA Rules Editor. Giờ bạn đã có thể chỉnh sửa YARA rules từ chính giao diện của phần mềm.
+-Ứng dụng bây giờ sẽ hiện thông tin chi tiết về YARA rule khi phát hiện tiến trình trùng khớp.
+-Bạn có thể chạy ứng dụng trong Sandbox khi phát hiện tiến trình đáng nghi bằng Heuristic hoặc YARA rule.
+[English]:
+-Added YARA Rules Editor. Now you can edit YARA rules from the GUI.
+-The app now will show details about the YARA rule when a matching process is detected.
+-Now you can run a suspicious application in Sandbox when detected by Heuristic or YARA rule.
+
 4.6.2 (4/8/2020):
 [Vietnamese]:
 -Sửa 1 lỗi ở tính năng Anti Keylogger.
