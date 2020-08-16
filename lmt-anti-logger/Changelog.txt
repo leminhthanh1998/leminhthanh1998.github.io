@@ -3,6 +3,12 @@ Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
 
+4.7 (16/8/2020):
+[Vietnamese]:
+-Bổ sung tính năng Anti Exploit cho trình duyệt. Tính năng này sẽ ngăn các trình duyệt tạo ra các tiến trình con.
+[English]:
+-Added Anti Exploit for Browsers. This feature automatically blocks all child processes of web app parent processes.
+
 4.6.3 (8/8/2020):
 [Vietnamese]:
 -Bổ sung YARA Rules Editor. Giờ bạn đã có thể chỉnh sửa YARA rules từ chính giao diện của phần mềm.
