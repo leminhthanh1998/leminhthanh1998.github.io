@@ -2,6 +2,11 @@ LMT Anti Logger - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.7.1 (22/8/2020):
+[Vietnamese]:
+-Bổ sung tính năng Malware Scanner. Giúp tìm và phát hiện malware trên máy tính của bạn. Database hiện vẫn đang phát triển nên kết quả quét sẽ không tốt lắm.
+[English]:
+-Added Malware Scanner. Helps find and detect malware on your computer. The database is still under development, so the scan result will not good.
 
 4.7 (16/8/2020):
 [Vietnamese]:
