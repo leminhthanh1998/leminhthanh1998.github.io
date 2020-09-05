@@ -2,6 +2,22 @@ LMT Anti Logger - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.8 (5/9/2020):
+[Vietnamese]:
+-Cập nhật tính năng Realtime Protection: Từ giờ LMT Anti Logger sẽ quét các module của 1 tiến trình khi nó được khởi chạy.
+-Bổ sung tùy chọn phát hiện PE Injection và Reflective PE Injection bằng heuristic ở tính năng Malware Scanner.
+-Bạn đã có thể kích hoạt bàn phím ảo mà không cần phải bật tính năng Anti Keylogger.
+-Cập nhật tính năng Anti Keylogger giúp bớt lag hơn khi gõ.
+-Cập nhật tính năng Scan with LMT Anti Logger: Khi quét các file .zip, phần mềm sẽ hiện rõ thông tin về những tệp nguy hiểm có trong file .zip đó.
+-Sửa lỗi khi tắt cửa sổ Malware Scanner đột xuất.
+[English]:
+-Improved Realtime Protection: Now LMT Anti Logger will scan modules used by a process when it is launched.
+-Added option to detect PE Injection and Reflective PE Injection by heuristic in Malware Scanner feature.
+-You can now enable the on-screen keyboard without having to turn on the Anti Keylogger feature.
+-Updated Anti Keylogger feature to help reduce lag when typing
+-Updated Scan with LMT Anti Logger feature: When scanning a .zip file, the software will show information about dangerous files contained in that .zip file.
+-Fixed bug when closing the Malware Scanner window unexpectedly.
+
 4.7.1 (22/8/2020):
 [Vietnamese]:
 -Bổ sung tính năng Malware Scanner. Giúp tìm và phát hiện malware trên máy tính của bạn. Database hiện vẫn đang phát triển nên kết quả quét sẽ không tốt lắm.
