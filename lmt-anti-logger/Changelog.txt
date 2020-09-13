@@ -2,6 +2,14 @@ LMT Anti Logger - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.8.1 (13/9/2020):
+[Vietnamese]:
+-Cập nhật lại model AI. Bây giờ Overall accuracy đạt 98.83% so với 97.89% như trước.
+-Sửa lỗi crash phần mềm khi kích hoạt tính năng Realtime protection.
+[English]:
+-Improved AI model. Overall accuracy now reached 98.83%.
+-Fixed a bug that could crash the software when enabling Realtime protection.
+
 4.8 (5/9/2020):
 [Vietnamese]:
 -Cập nhật tính năng Realtime Protection: Từ giờ LMT Anti Logger sẽ quét các module của 1 tiến trình khi nó được khởi chạy.
