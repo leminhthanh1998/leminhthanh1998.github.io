@@ -2,6 +2,16 @@ LMT Anti Logger - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.9 (4/10/2020):
+[Vietnamese]:
+-Bổ sung tính năng USB drive Guard.
+-Bổ sung tùy chọn sử dụng AMSI cho tính năng Fileless Protection.
+-Cập nhật tính năng Anti Executable, bổ sung thêm các tùy chọn.
+[English]:
+-Added USB drive Guard feature.
+-Added an option to use AMSI for Fileless Protection.
+-Updated Anti Executable feature, added more options.
+
 4.8.1 (13/9/2020):
 [Vietnamese]:
 -Cập nhật lại model AI. Bây giờ Overall accuracy đạt 98.83% so với 97.89% như trước.
