@@ -2,6 +2,16 @@ LMT Anti Logger - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.9.1 (16/10/2020):
+[Vietnamese]:
+-Phần mềm sẽ chuyển qua sử dụng API của tôi nếu API của Virustotal bị giới hạn truy cập.
+-Giải quyết vấn đề phần mềm có thể crashes khi quét file .zip.
+-Tính năng AI trong Scan with LMT Anti Logger sẽ tự nhận diện file PE mà không cần phải dựa vào định dạng tệp tin.
+[English]:
+-The software will switch to using my API if Virustotal's API is rate limited.
+-Fixed: Resolves potential program crashes when scanning .zip files.
+-The AI feature in Scan with LMT Anti Logger will automatically detect the PE file without having to rely on the file extension.
+
 4.9 (4/10/2020):
 [Vietnamese]:
 -Bổ sung tính năng USB drive Guard.
