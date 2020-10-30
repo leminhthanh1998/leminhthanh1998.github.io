@@ -2,6 +2,12 @@ LMT Anti Logger - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.9.2 (30/10/2020):
+[Vietnamese]:
+-Sửa lỗi.
+[English]:
+-Fixed: Bug fixes
+
 4.9.1 (16/10/2020):
 [Vietnamese]:
 -Phần mềm sẽ chuyển qua sử dụng API của tôi nếu API của Virustotal bị giới hạn truy cập.
