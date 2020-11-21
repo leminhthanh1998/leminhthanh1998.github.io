@@ -2,6 +2,14 @@ LMT Anti Logger - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+4.9.3 (21/11/2020):
+[Vietnamese]:
+-Loại bỏ tính năng Malware Scanner vì API đã được cho đi an nghỉ.
+-Thay đổi tính năng USB Guard, khi bạn kết nối với ổ đĩa USB, phần mềm sẽ chặn những ứng dụng không đáng tin cậy chạy từ ổ đĩa USB đó.
+[English]:
+-Malware Scanner feature has been removed because the API has been put to rest.
+-Change the USB Guard feature: when you connect to the USB drive, the software will block untrusted applications from running from that USB drive.
+
 4.9.2 (30/10/2020):
 [Vietnamese]:
 -Sửa lỗi.
