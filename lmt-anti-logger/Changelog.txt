@@ -2,6 +2,17 @@ LMT Anti Logger - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
+
+4.9.5 (8/2/2021):
+[Vietnamese]:
+-Từ giờ LMT Anti Logger hỗ trợ khởi động vào Safe Mode để xử lý những file mà phần mềm không thể xử lý ở môi trường thông thường.
+-Cải thiện tính năng Anti Exploit for Browsers.
+-Sửa vài lỗi nhỏ và vài cải tiến tí ti.
+[English]:
+-Now LMT Anti Logger supports boot into Safe Mode to handle files that the software cannot handle in the normal environment.
+-Improved Anti Exploit for Browsers.
+-Fixes some minor bugs and contains small improvements.
+
 4.9.4 (6/12/2020):
 [Vietnamese]:
 -Sửa lỗi ở tính năng Realtime Protection. Cảm ơn Daniel Gebert đã report lỗi.
