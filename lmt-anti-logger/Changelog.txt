@@ -3,6 +3,14 @@ Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
 
+5.0 (13/3/2021):
+[Vietnamese]:
+-Chuyển từ .NET Framework sang .NET 5 để sử dụng những lợi ích mới nhất từ .NET 5. Các tính năng mới sẽ được thêm ở các phiên bản kế tiếp.
+-Sửa vài lỗi nhỏ và vài cải tiến tí ti.
+[English]:
+-Port from .NET Framework to .NET 5 to use the the latest benefits from .NET 5. New features will be added in the next versions.
+-Fixes some minor bugs and contains small improvements.
+
 4.9.5 (8/2/2021):
 [Vietnamese]:
 -Từ giờ LMT Anti Logger hỗ trợ khởi động vào Safe Mode để xử lý những file mà phần mềm không thể xử lý ở môi trường thông thường.
