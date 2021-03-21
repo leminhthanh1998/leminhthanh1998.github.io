@@ -10,7 +10,7 @@ Changelog:
 -Sửa vài lỗi nhỏ.
 [English]:
 -Added Web Protection, block your connection to malicious websites. Currently only supports Chrome, MS Edge, Firefox and Opera. Best compatible with Firefox.
--Port from .NET 5 to .NET Framework to ensure the Web Protection feature is working properly :))
+-Port from .NET 5 to .NET Framework to make sure the Web Protection feature is working properly :))
 -Fixes some minor bugs.
 
 5.0 (13/3/2021):
