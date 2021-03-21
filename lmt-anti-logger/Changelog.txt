@@ -3,6 +3,16 @@ Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
 
+5.1 (21/3/2021):
+[Vietnamese]:
+-Bổ sung tính năng Web Protection, ngăn chặn kết nối đến những trang web độc hại. Hiện tại chỉ hỗ trợ Chrome, MS Edge, Firefox và Opera. Tương thích tốt nhất với Firefox.
+-Chuyển từ .NET 5 về .NET Framework để đảm bảo tính năng Web Protection hoạt động ổn định :))
+-Sửa vài lỗi nhỏ.
+[English]:
+-Added Web Protection, block your connection to malicious websites. Currently only supports Chrome, MS Edge, Firefox and Opera. Best compatible with Firefox.
+-Port from .NET 5 to .NET Framework to ensure the Web Protection feature is working properly :))
+-Fixes some minor bugs.
+
 5.0 (13/3/2021):
 [Vietnamese]:
 -Chuyển từ .NET Framework sang .NET 5 để sử dụng những lợi ích mới nhất từ .NET 5. Các tính năng mới sẽ được thêm ở các phiên bản kế tiếp.
