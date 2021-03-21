@@ -3,7 +3,7 @@ Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
 
-5.1 (21/3/2021):
+5.1 (21/3/2021): Please uninstall version 5.0, then install ver 5.1
 [Vietnamese]:
 -Bổ sung tính năng Web Protection, ngăn chặn kết nối đến những trang web độc hại. Hiện tại chỉ hỗ trợ Chrome, MS Edge, Firefox và Opera. Tương thích tốt nhất với Firefox.
 -Chuyển từ .NET 5 về .NET Framework để đảm bảo tính năng Web Protection hoạt động ổn định :))
