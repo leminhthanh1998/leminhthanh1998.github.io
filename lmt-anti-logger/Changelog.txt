@@ -9,7 +9,7 @@ Changelog:
 -Sửa lỗi không thể xuống dòng khi thêm các quy tắc tùy chỉnh.
 [English]:
 -Web Protection feature will automatically filter the internet connection of all browsers on your computer. You can add the browser you want to exclude to Whitelist.
--Fixed a bug that could not return the line when adding custom rules.
+-Fixed a bug that could not return the line when adding custom rules on Web Protection.
 
 5.1 (21/3/2021): Please uninstall version 5.0, then install ver 5.1
 [Vietnamese]:
