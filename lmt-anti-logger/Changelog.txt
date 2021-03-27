@@ -3,6 +3,14 @@ Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
 
+5.1.1 (27/3/2021):
+[Vietnamese]:
+-Tính năng Web Protection sẽ tự động lọc kết nối internet của tất cả trình duyệt trên máy tính. Bạn có thể thêm trình duyệt muốn loại trừ vào Whitelist.
+-Sửa lỗi không thể xuống dòng khi thêm các quy tắc tùy chỉnh.
+[English]:
+-Web Protection feature will automatically filter the internet connection of all browsers on your computer. You can add the browser you want to exclude to Whitelist.
+-Fixed a bug that could not return the line when adding custom rules.
+
 5.1 (21/3/2021): Please uninstall version 5.0, then install ver 5.1
 [Vietnamese]:
 -Bổ sung tính năng Web Protection, ngăn chặn kết nối đến những trang web độc hại. Hiện tại chỉ hỗ trợ Chrome, MS Edge, Firefox và Opera. Tương thích tốt nhất với Firefox.
