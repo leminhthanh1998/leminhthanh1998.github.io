@@ -1,6 +1,11 @@
 LMT Anti Logger - A software helps protect you from malware. Detect unknown threats, stay protected!
 Website: https://leminhthanh.me/antilogger/
 ----------------------------------
+When installing LMT Anti Logger, but meet this error : https://i.imgur.com/fm3ba5O.png
+Please turn off LMT Anti Logger's Self-defense, then restart the computer and install LMT Anti Logger.
+
+When installing LMT Anti Logger and meet this error, please click Skip: https://i.imgur.com/lhBqH1N.png
+----------------------------------
 Changelog:
 
 5.1.2 (31/3/2021):
