@@ -3,6 +3,12 @@ Website: https://leminhthanh.me/antilogger/
 ----------------------------------
 Changelog:
 
+5.1.2 (31/3/2021):
+[Vietnamese]:
+-Tạo CSDL online cho tính năng Web Protection, dựa trên URLhaus, PhishTank, OpenPhish và ChongLuaDao.vn. Quá trình kiểm tra liên kết được thực hiện ngay trên máy tính của bạn.
+[English]:
+-Create a online database for Web Protection feature, base on URLhaus, PhishTank, OpenPhish and ChongLuaDao.vn. Link filtering is done on your computer.
+
 5.1.1 (27/3/2021):
 [Vietnamese]:
 -Tính năng Web Protection sẽ tự động lọc kết nối internet của tất cả trình duyệt trên máy tính. Bạn có thể thêm trình duyệt muốn loại trừ vào Whitelist.
