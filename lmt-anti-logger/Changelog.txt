@@ -8,6 +8,12 @@ When installing LMT Anti Logger and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.1.3 (02/04/2021):
+[Vietnamese]:
+-Sửa lỗi các trình duyệt nhân Chromium không hiển thị được các nội dung đa phương tiện khi tính năng Web Protection được bật.
+[English]:
+-Fixed a bug prevent Chromium browsers unable to display media content when Web Protection is enabled.
+
 5.1.2 (31/3/2021):
 [Vietnamese]:
 -Tạo CSDL online cho tính năng Web Protection, dựa trên URLhaus, PhishTank, OpenPhish và ChongLuaDao.vn. Quá trình kiểm tra liên kết được thực hiện ngay trên máy tính của bạn.
