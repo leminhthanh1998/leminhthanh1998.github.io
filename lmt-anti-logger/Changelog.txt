@@ -8,6 +8,14 @@ When installing LMT Anti Logger and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.2 (02/04/2021):
+[Vietnamese]:
+-Giao diện mới, không xịn nhất nhưng ít nhất là nó không tệ như cái giao diện cũ.
+-Sửa vài lỗi nhỏ.
+[English]:
+-New UI, not the best, but at least it's not as bad as the old UI.
+-Fixes some minor bugs.
+
 5.1.3 (02/04/2021):
 [Vietnamese]:
 -Sửa lỗi các trình duyệt nhân Chromium không hiển thị được các nội dung đa phương tiện khi tính năng Web Protection được bật.
