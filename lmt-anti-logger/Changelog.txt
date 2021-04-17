@@ -10,16 +10,16 @@ Changelog:
 
 5.2.1 (17/04/2021):
 [Vietnamese]:
--Thêm tính năng: Tự động kích hoạt tìm kiếm an toàn trên các công cụ tìm kiếm  (Google, Bing, Yahoo, Duckduckgo).
--Thêm tính năng: Loại bỏ X-Client-Data header.
--Thêm tính năng: Loại bỏ các tham số theo dõi từ URL.
--Thêm tính năng: Ẩn địa chỉ IP.
+-Web Protection: Thêm Tự động kích hoạt tìm kiếm an toàn trên các công cụ tìm kiếm  (Google, Bing, Yahoo, Duckduckgo).
+-Web Protection: Thêm Loại bỏ X-Client-Data header.
+-Web Protection: Thêm Loại bỏ các tham số theo dõi từ URL.
+-Web Protection: Thêm Ẩn địa chỉ IP.
 -Sửa vài lỗi nhỏ liên quan đến tính năng Folder Guard.
 [English]:
--Added: Automatically activate Safe Search on search engines on Web Protection (Google, Bing, Yahoo, Duckduckgo).
--Added: Remove X-Client-Data header on Web Protection.
--Added: Remove tracking parameters from URLs on Web Protection.
--Added: Hide your IP address on Web Protection.
+-Web Protection: Automatically activate Safe Search on search engines (Google, Bing, Yahoo, Duckduckgo).
+-Web Protection: Remove X-Client-Data header.
+-Web Protection: Remove tracking parameters from URLs.
+-Web Protection: Hide your IP address.
 -Fixed: Some Folder Guard's minor bugs.
 
 5.2 (12/04/2021):
