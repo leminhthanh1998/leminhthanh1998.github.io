@@ -8,6 +8,14 @@ When installing LMT Anti Logger and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.2.2 (23/04/2021):
+[Vietnamese]:
+-Bổ sung tính năng sử dụng AI để phát hiện các trang web lừa đảo.
+-Sửa lỗi dữ liệu fileless bị ghi đè khi nâng cấp phần mềm.
+[English]:
+-Added: Use AI to detect phishing websites.
+-Fixed: Fileless data is overwritten when upgrading software.
+
 5.2.1 (17/04/2021):
 [Vietnamese]:
 -Web Protection: Thêm Tự động kích hoạt tìm kiếm an toàn trên các công cụ tìm kiếm  (Google, Bing, Yahoo, Duckduckgo).
