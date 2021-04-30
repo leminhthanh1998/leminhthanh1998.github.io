@@ -8,6 +8,14 @@ When installing LMT Anti Logger and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.3 (30/4/2021)
+[Vietnamese]:
+-Bổ sung tính năng Kiểm soát của cha mẹ
+-Sửa vài lỗi nhỏ.
+[English]:
+-Added: Parental Control.
+-Fixed: some minor bugs.
+
 5.2.3 (24/04/2021):
 [Vietnamese]:
 -Sửa lỗi phần mềm lưu cài đặt bị sai.
