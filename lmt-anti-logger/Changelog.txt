@@ -8,13 +8,21 @@ When installing LMT Anti Logger and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.3.1 (30/4/2021)
+[Vietnamese]:
+-Cải tiến tùy chọn Quét file ngay khi truy cập ở tính năng Realtime Protection. LMT Anti Logger sẽ sử dụng CSDL từ ClamAV cho tính năng Quét file ngay khi truy cập.
+-Sửa vài lỗi nhỏ ở tính năng Web Protection.
+[English]:
+-Realtime Protection: Improved On-access scanning option. Now LMT Anti Logger will use database from ClamAV for On-access scanning.
+-Fixed: Some minor bugs in Web Protection.
+
 5.3 (30/4/2021)
 [Vietnamese]:
 -Bổ sung tính năng Kiểm soát của cha mẹ
 -Sửa vài lỗi nhỏ.
 [English]:
 -Added: Parental Control.
--Fixed: some minor bugs.
+-Fixed: Some minor bugs.
 
 5.2.3 (24/04/2021):
 [Vietnamese]:
