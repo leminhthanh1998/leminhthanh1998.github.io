@@ -1,12 +1,24 @@
-LMT Anti Logger - A software helps protect you from malware. Detect unknown threats, stay protected!
-Website: https://leminhthanh.me/antilogger/
+LMT AntiMalware - A software helps protect you from malware. Detect unknown threats, stay protected!
+Website: https://leminhthanh.me/antimalware/
 ----------------------------------
-When installing LMT Anti Logger, but meet this error : https://i.imgur.com/fm3ba5O.png
-Please turn off LMT Anti Logger's Self-defense, then restart the computer and install LMT Anti Logger.
+When installing LMT AntiMalware, but meet this error : https://i.imgur.com/fm3ba5O.png
+Please turn off LMT AntiMalware's Self-defense, then restart the computer and install LMT Anti Logger.
 
-When installing LMT Anti Logger and meet this error, please click Skip: https://i.imgur.com/lhBqH1N.png
+When installing LMT AntiMalware and meet this error, please click Skip: https://i.imgur.com/lhBqH1N.png
 ----------------------------------
 Changelog:
+
+5.4 (03/05/2021)
+[Vietnamese]:
+-Đổi tên phần mềm từ LMT Anti Logger thành LMT AntiMalware.
+-Realtime Protection: Giới thiệu engine CuteDuck - 1 engine nhà làm dựa trên CSDL từ ClamAV, hỗ trợ quét file PE, MS Office, file nén và các file script.
+-Basic Firewall: Sẽ hiển thị thêm thông tin về Remote IP khi phát hiện tiến trình không tin cậy kết nối internet.
+-Sửa vài lỗi nhỏ.
+[English]:
+-Rename the software from LMT Anti Logger to LMT AntiMalware.
+-Realtime Protection: Introducing the CuteDuck engine - a in-house engine based on databases from ClamAV, which supports scanning of PE files, MS Office files, compressed files and script files.
+-Basic Firewall: Will display Remote IP information when it detects an untrusted program tries to access the internet.
+-Fixed: Some minor bugs.
 
 5.3.1 (03/05/2021)
 [Vietnamese]:
