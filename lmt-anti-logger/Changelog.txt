@@ -8,7 +8,7 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
-5.4 (03/05/2021)
+5.4 (10/05/2021)
 [Vietnamese]:
 -Đổi tên phần mềm từ LMT Anti Logger thành LMT AntiMalware.
 -Realtime Protection: Giới thiệu engine CuteDuck - 1 engine nhà làm dựa trên CSDL từ ClamAV, hỗ trợ quét file PE, MS Office, file nén và các file script.
