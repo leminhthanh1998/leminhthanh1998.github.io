@@ -7,6 +7,7 @@ Please turn off LMT AntiMalware's Self-defense, then restart the computer and in
 When installing LMT AntiMalware and meet this error, please click Skip: https://i.imgur.com/lhBqH1N.png
 ----------------------------------
 Changelog:
+
 5.4.2 (16/05/2021)
 [Vietnamese]:
 -Engine CuteDuck: Sửa lỗi khi LMT AntiMalware tách và quét code Macro ở các file MS Office.
