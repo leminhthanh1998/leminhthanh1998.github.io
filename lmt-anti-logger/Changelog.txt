@@ -8,6 +8,16 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.4.2 (16/05/2021)
+[Vietnamese]:
+-Engine CuteDuck: Sửa lỗi khi LMT AntiMalware tách và quét code Macro ở các file MS Office.
+-Engine CuteDuck: Sửa lỗi khi quét file .CHM.
+-Fileless Protection: Các quy tắt bây giờ sẽ load theo thứ tự chữ cái.
+[English]:
+-CuteDuck engine: Fixed a bug when LMT AntiMalware extract and scans Macro code in MS Office files.
+-CuteDuck engine: Fixed a bug when scan .CHM file.
+-Fileless Protection: Rules will load in alphabetical order.
+
 5.4.1 (15/05/2021)
 [Vietnamese]:
 -Engine CuteDuck: Hỗ trợ thêm các định dạng .RAR và .CHM.
