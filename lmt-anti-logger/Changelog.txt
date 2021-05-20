@@ -8,6 +8,14 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.4.3 (20/05/2021)
+[Vietnamese]:
+-Engine CuteDuck: Sửa lỗi LMT AntiMalware có thể làm Windows bị treo khi tiến hành download CSDL.
+-Bổ sung ngôn ngữ Ba Lan, cảm ơn bạn Raziel The Wolffox
+[English]:
+-CuteDuck engine: Fixed a bug could cause Windows to hang or freeze when downloading the database.
+-Added: Polish language, thanks to Raziel The Wolffox
+
 5.4.2 (16/05/2021)
 [Vietnamese]:
 -Engine CuteDuck: Sửa lỗi khi LMT AntiMalware tách và quét code Macro ở các file MS Office.
