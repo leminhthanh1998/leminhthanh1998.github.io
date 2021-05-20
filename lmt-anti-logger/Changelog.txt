@@ -2,7 +2,7 @@ LMT AntiMalware - A software helps protect you from malware. Detect unknown thre
 Website: https://leminhthanh.me/antimalware/
 ----------------------------------
 When installing LMT AntiMalware, but meet this error : https://i.imgur.com/fm3ba5O.png
-Please turn off LMT AntiMalware's Self-defense, then restart the computer and install LMT Anti Logger.
+Please turn off LMT AntiMalware's Self-defense, then restart the computer and install LMT AntiMalware.
 
 When installing LMT AntiMalware and meet this error, please click Skip: https://i.imgur.com/lhBqH1N.png
 ----------------------------------
