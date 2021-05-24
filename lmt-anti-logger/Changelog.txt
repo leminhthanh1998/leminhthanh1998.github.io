@@ -8,6 +8,16 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.5 (24/05/2021):
+[Vietnamese]:
+-Thêm trang Quét Malware: Hỗ trợ Quét nhanh và Quét tùy chọn dựa trên engine CuteDuck.
+-Thay đổi cách thức cập nhật CSDL.
+-Sửa vài lỗi nhỏ.
+[English]:
+-Added: Malware Scanner section. Supports Quick scan and Custom scan based on CuteDuck engine.
+-Change Database update method.
+-Fixed: Some minor bugs.
+
 5.4.3 (20/05/2021)
 [Vietnamese]:
 -Engine CuteDuck: Sửa lỗi LMT AntiMalware có thể làm Windows bị treo khi tiến hành download CSDL.
