@@ -8,6 +8,18 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.5.1 (31/05/2021):
+[Vietnamese]:
+-Từ giờ mỗi khi xóa 1 mối nguy hiểm, LMT AntiMalware sẽ tự động sao lưu nó lại. Mật khẩu giải nén: infected
+-Kiểm soát của cha mẹ: Hỗ trợ thêm tiếng Pháp cho tính năng kiểm soát nội dung.
+-Bảo vệ duyệt web: LMT AntiMalware sẽ hiện 1 thông báo khi chặn truy cập đến các trang web độc hại.
+-Sửa vài lỗi nhỏ.
+[English]:
+-Now: Everytime a threat is removed, LMT AntiMalware will automatically create a backup copy of that file. Extract password: infected
+-Parental Control: Added French support for content filtering.
+-Web Protection: Now LMT AntiMalware will show a notifications when blocking access to malicious websites.
+-Fixed: Some minor bugs.
+
 5.5 (24/05/2021):
 [Vietnamese]:
 -Thêm trang Quét Malware: Hỗ trợ Quét nhanh và Quét tùy chọn dựa trên engine CuteDuck.
