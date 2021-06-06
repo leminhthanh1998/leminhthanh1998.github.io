@@ -8,6 +8,20 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.5.2 (6/6/2021):
+[Vietnamese]:
+-Bảo vệ duyệt web: Giờ bạn đã có thể chọn được những ứng dụng mà bạn muốn LMT AntiMalware quét kết nối internet của chúng.
+-LMT AntiMalware sẽ tự động cập nhật các bản dịch ngôn ngữ mới nhất.
+-Sửa lỗi: LMT AntiMalware bị treo vài giây khi click kích hoạt tính năng Bảo vệ duyệt web.
+-Sửa vài lỗi nhỏ khác.
+-Bổ sung ngôn ngữ Ý, cảm ơn bạn tfrtint.
+[English]:
+-Web Protection: Now you can choose which applications you want LMT AntiMalware to filter their internet traffic.
+-LMT AntiMalware will automatically update the latest language translations.
+-Fixed: LMT AntiMalware hangs for a few seconds when clicking enable Web Protection.
+-Fixed: Some minor bugs.
+-Added: Italian language, thanks to tfrtint.
+
 5.5.1 (31/05/2021):
 [Vietnamese]:
 -Từ giờ mỗi khi xóa 1 mối nguy hiểm, LMT AntiMalware sẽ tự động sao lưu nó lại. Mật khẩu giải nén: infected
