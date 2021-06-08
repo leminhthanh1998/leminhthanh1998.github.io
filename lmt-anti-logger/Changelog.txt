@@ -8,6 +8,15 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.5.3 (8/6/2021):
+[Vietnamese]:
+-Bảo vệ duyệt web: Sửa lỗi LMT AntiMalware có thể bị crash khi thêm 1 ứng dụng để lọc internet.
+-Bảo vệ duyệt web: Bây giờ bạn đã có thể thiết lập số luồng mà LMT AntiMalware sẽ sử dụng.
+[English]:
+-Web Protection: Resolves potential program crashes when add an application to filter the internet.
+-Web Protection: You can now set the number of threads that LMT AntiMalware will use.
+https://i.imgur.com/FUEPUth.png
+
 5.5.2 (6/6/2021):
 [Vietnamese]:
 -Bảo vệ duyệt web: Giờ bạn đã có thể chọn được những ứng dụng mà bạn muốn LMT AntiMalware quét kết nối internet của chúng.
