@@ -8,6 +8,13 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.5.4 (13/6/2021):
+[Vietnamese]:
+-Từ giờ quá trình cập nhật phiên bản cho LMT AntiMalware sẽ đơn giản hơn!
+[English]:
+-From now, the process of updating the version for LMT AntiMalware will be simpler!
+
+
 5.5.3 (8/6/2021):
 [Vietnamese]:
 -Bảo vệ duyệt web: Sửa lỗi LMT AntiMalware có thể bị crash khi thêm 1 ứng dụng để lọc internet.
