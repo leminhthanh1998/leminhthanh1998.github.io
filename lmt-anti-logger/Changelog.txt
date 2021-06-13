@@ -11,8 +11,10 @@ Changelog:
 5.5.4 (13/6/2021):
 [Vietnamese]:
 -Từ giờ quá trình cập nhật phiên bản cho LMT AntiMalware sẽ đơn giản hơn!
+https://i.imgur.com/xY2Bx2v.png
 [English]:
 -From now, the process of updating the version for LMT AntiMalware will be simpler!
+https://i.imgur.com/xY2Bx2v.png
 
 
 5.5.3 (8/6/2021):
