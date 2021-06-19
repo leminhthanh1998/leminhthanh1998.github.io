@@ -8,6 +8,16 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.6 (13/6/2021):
+[Vietnamese]:
+-Bảo vệ thời gian thực: Bổ sung tùy chọn Phát hiện hành vi.
+Tính năng này sẽ giám sát hoạt động của các ứng dụng đáng ngờ và hiện thông báo nếu 1 hành vi đáng ngờ được phát hiện.
+Ứng dụng đáng ngờ là các ứng dụng load các APIs thường được phát hiện ở malware.
+[English]:
+-Realtime Protection: Add Behavior Detection.
+This feature will monitor the actions of suspicious applications and raises an alert if suspicious behavior is detected.
+Suspicious applications are applications that load Windows APIs commonly found in malware.
+
 5.5.4 (13/6/2021):
 [Vietnamese]:
 -Từ giờ quá trình cập nhật phiên bản cho LMT AntiMalware sẽ đơn giản hơn. LMT AntiMalware sẽ tải về và giúp bạn cài đặt phiên bản mới.
