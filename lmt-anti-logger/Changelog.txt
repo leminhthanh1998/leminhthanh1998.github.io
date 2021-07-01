@@ -8,6 +8,16 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.6.1 (1/7/2021):
+[Vietnamese]:
+-Bổ sung tính năng: Tối ưu hóa sử dụng bộ nhớ.
+LMT AntiMalware sẽ yêu cầu Windows nạp chính nó vào pagefile. Lúc này Task Manager sẽ hiện thị rất ít bộ nhớ được sử dụng.
+-Sửa lỗi ở tính năng Tự động cập nhật.
+[English]:
+-Added: Memory usage optimization option. 
+LMT AntiMalware will ‘ask’ Windows to swap itself to the pagefile in regular intervals. Then the Windows Task Manager shows a very low memory usage.
+-Fixed a bug in Auto-Update.
+
 5.6 (19/6/2021):
 [Vietnamese]:
 -Bảo vệ thời gian thực: Bổ sung tùy chọn Phát hiện hành vi.
