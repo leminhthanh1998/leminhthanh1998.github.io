@@ -15,7 +15,7 @@ LMT AntiMalware sẽ yêu cầu Windows nạp chính nó vào pagefile. Lúc nà
 -Sửa lỗi ở tính năng Tự động cập nhật.
 [English]:
 -Added: Memory usage optimization option. 
-LMT AntiMalware will ‘ask’ Windows to swap itself to the pagefile in regular intervals. Then the Windows Task Manager shows a very low memory usage.
+LMT AntiMalware will ‘ask’ Windows to swap LMT AntiMalware to the pagefile in regular intervals. Then the Windows Task Manager shows a very low memory usage.
 -Fixed a bug in Auto-Update.
 
 5.6 (19/6/2021):
