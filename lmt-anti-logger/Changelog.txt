@@ -8,6 +8,21 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.7 (13/7/2021):
+[Vietnamese]:
+-Bổ sung tính năng: Mã hóa thư mục, cho phép bạn lưu trữ dữ liệu trên ổ cứng của mình một cách an toàn trong khi vẫn có thể truy cập dữ liệu như thể nó chưa được mã hóa. Chỉ những ứng dụng có trong danh sách loại trừ mới có thể đọc được dữ liệu mã hóa.
+-Kiểm soát của cha mẹ: Bây giờ bạn đã có thể kích hoạt LMT Artifical Intelligence lọc nội dung website ở 144 danh mục khác nhau.
+-Cuteduck Engine: Hỗ trợ quét các file cài đặt và các packer đáng ngờ.
+-Sửa lỗi ở tính năng Bảo vệ thư mục.
+-Sửa vài lỗi nhỏ khác.
+[English]:
+-Added: Folder Encryption, it allows you to safely store data on your hard drive while still being able to access the data as if it were not encrypted. Only apps on the exclusion list can read the encrypted data.
+-Parental Control: You can now enable LMT Artifical Intelligence to filter website content in 144 different categories.
+-Cuteduck Engine: Support scanning installation files and suspicious packers.
+-Fixed: A bug in Folder Guard.
+-Fixed: Some minor bugs.
+
+
 5.6.1 (1/7/2021):
 [Vietnamese]:
 -Bổ sung tính năng: Tối ưu hóa sử dụng bộ nhớ.
