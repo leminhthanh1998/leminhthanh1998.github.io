@@ -8,6 +8,16 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.7.1 (27/7/2021):
+[Vietnamese]:
+-Tường lửa cơ bản: Bây giờ tính năng này sẽ không còn phụ thuộc vào tường lửa của Windows. Bạn có thể cấu hình chặn các ứng dụng truy cập internet thông qua tab Bảo vệ duyệt web trong mục Cài đặt.
+-Sửa lỗi LMT AntiMalware có thể crash ở 1 số hệ thống.
+-Cập nhật giao diện.
+[English]:
+-Basic Firewall: Now this feature will no longer depend on the Windows firewall. You can configure blocking applications from accessing the internet through the Browsing Protection tab in Settings.
+-Fixed: LMT AntiMalware may crash on some systems.
+-Update UI.
+
 5.7 (13/7/2021):
 [Vietnamese]:
 -Bổ sung tính năng: Mã hóa thư mục, cho phép bạn lưu trữ dữ liệu trên ổ cứng của mình một cách an toàn trong khi vẫn có thể truy cập dữ liệu như thể nó chưa được mã hóa. Chỉ những ứng dụng có trong danh sách loại trừ mới có thể đọc được dữ liệu mã hóa.
