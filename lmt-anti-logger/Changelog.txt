@@ -11,9 +11,11 @@ Changelog:
 5.7.2 (8/8/2021):
 [Vietnamese]:
 -CuteDuck engine: Bổ sung tùy chọn sử dụng CSDL đám mây, gồm khoảng 8 triệu mã hash từ ClamAV (MD5 hash-based signatures và PE section based hash signatures).
+-Bây giờ bạn đã có thể thêm thư mục vào Danh sách loại trừ.
 -Sửa vài lỗi nhỏ.
 [English]:
 -CuteDuck engine: Added a option to use Cloud Database, which includes about 8 million hashes from ClamAV (MD5 hash-based signatures and PE section based hash signatures).
+-Now you can add folder to Whitelist.
 -Fixed: Some minor bugs.
 
 5.7.1 (27/7/2021):
