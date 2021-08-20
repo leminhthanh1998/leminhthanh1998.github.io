@@ -8,6 +8,20 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.7.3 (20/8/2021):
+[Vietnamese]:
+-Bảo vệ duyệt web: Thêm tùy chọn cho phép bạn chọn hành động thực hiện khi phát hiện URL độc hại.
+-Cập nhật trang Quét Malware.
+-CSDL Đám mây: Bổ sung thêm Server ở khu vực Đông Nam Á. Từ giờ dự trên vị trí địa lý của bạn hệ thống sẽ tự điều hướng bạn đến server gần nhất.
+-Cải thiện tính năng Phát hiện hành vi.
+-Bạn có thể xem thông tin về số file đã được xử lý bới CSDL Đám mây ở trang Thông tin phần mềm.
+[English]:
+-Web Protection: Added an option that allows you to choose what action to take when malicious URLs are detected.
+-Updated Malware Scanner page.
+-Cloud Database: Added a server in Southeast Asia. From now based on your geographical location the system will automatically direct you to the nearest server.
+-Improved Behavior Detection.
+-You can view information about the number of files that have been processed by the Cloud Database on About page.
+
 5.7.2 (8/8/2021):
 [Vietnamese]:
 -CuteDuck engine: Bổ sung tùy chọn sử dụng CSDL đám mây, gồm khoảng 8 triệu mã hash từ ClamAV (MD5 hash-based signatures và PE section based hash signatures).
