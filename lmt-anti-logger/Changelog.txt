@@ -15,12 +15,14 @@ Changelog:
 -CSDL Đám mây: Bổ sung thêm Server ở khu vực Đông Nam Á. Từ giờ dự trên vị trí địa lý của bạn hệ thống sẽ tự điều hướng bạn đến server gần nhất.
 -Cải thiện tính năng Phát hiện hành vi.
 -Bạn có thể xem thông tin về số file đã được xử lý bới CSDL Đám mây ở trang Thông tin phần mềm.
+-Thêm tùy chọn xóa thư mục cách ly.
 [English]:
 -Web Protection: Added an option that allows you to choose what action to take when malicious URLs are detected.
 -Updated Malware Scanner page.
 -Cloud Database: Added a server in Southeast Asia. From now based on your geographical location the system will automatically direct you to the nearest server.
 -Improved Behavior Detection.
 -You can view information about the number of files that have been processed by the Cloud Database on About page.
+-Added a option to delete the quanrantine folder.
 
 5.7.2 (8/8/2021):
 [Vietnamese]:
