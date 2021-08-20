@@ -12,14 +12,14 @@ Changelog:
 [Vietnamese]:
 -Bảo vệ duyệt web: Thêm tùy chọn cho phép bạn chọn hành động thực hiện khi phát hiện URL độc hại.
 -Cập nhật trang Quét Malware.
--CSDL Đám mây: Bổ sung thêm Server ở khu vực Đông Nam Á. Từ giờ dự trên vị trí địa lý của bạn hệ thống sẽ tự điều hướng bạn đến server gần nhất.
+-CSDL Đám mây: Bổ sung thêm Server ở khu vực Đông Nam Á. Từ giờ dự trên vị trí địa lý của bạn hệ thống sẽ tự điều hướng bạn đến server gần nhất (Southeast Asia hoặc South Central US).
 -Cải thiện tính năng Phát hiện hành vi.
 -Bạn có thể xem thông tin về số file đã được xử lý bới CSDL Đám mây ở trang Thông tin phần mềm.
 -Thêm tùy chọn xóa thư mục cách ly.
 [English]:
 -Web Protection: Added an option that allows you to choose what action to take when malicious URLs are detected.
 -Updated Malware Scanner page.
--Cloud Database: Added a server in Southeast Asia. From now based on your geographical location the system will automatically direct you to the nearest server.
+-Cloud Database: Added a server in Southeast Asia. From now based on your geographical location the system will automatically direct you to the nearest server (Southeast Asia or South Central US).
 -Improved Behavior Detection.
 -You can view information about the number of files that have been processed by the Cloud Database on About page.
 -Added a option to delete the quanrantine folder.
@@ -657,7 +657,6 @@ Note: This feature may produce false positive results.
 -Bổ sung tính năng bảo vệ thời gian thực, giúp bạn bảo vệ máy tính khỏi những mối nguy hiểm như virus/trojan/keylogger.
 2.6 (7/4/2020):
 -Bổ sung tính năng cấu hình Windows Security, giúp đem lại cho bạn hiệu quả bảo vệ tốt nhất!
--Bổ sung VoodooAI vào tính năng quét tìm keyloggers.
 2.5 (3/4/2020):
 -Bổ sung tính năng vô hiệu hóa webcam.
 -Cập nhật lại tính năng quét keylogger.
