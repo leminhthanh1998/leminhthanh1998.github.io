@@ -8,6 +8,14 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.7.3 (22/8/2021):
+[Vietnamese]:
+-Cập nhật menu chuột phải: Từ giờ bạn có thể chọn nhiều file hoặc thư mục để quét từ menu chuột phải.
+-Sửa lỗi ở trang Quét Malware.
+[English]:
+-Improved right-click context menu: You can now select multiple files or folders to scan from the right-click context menu.
+-Fixed a bug on the Malware Scanner page.
+
 5.7.3 (20/8/2021):
 [Vietnamese]:
 -Bảo vệ duyệt web: Thêm tùy chọn cho phép bạn chọn hành động thực hiện khi phát hiện URL độc hại.
