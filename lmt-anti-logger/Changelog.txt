@@ -8,6 +8,16 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.7.5 (29/8/2021):
+[Vietnamese]:
+-Bảo vệ khỏi Fileless: Giờ bạn đã có thể loại trừ các câu lệnh thực thi.
+-Bảo vệ thời gian thực: Bổ sung tính năng Tự động quét thiết bị USB.
+-Bảo vệ duyệt web: Thêm tùy chọn cho phép bạn vô hiệu hóa driver WinDivert khi cảm thấy internet bị ảnh hưởng.
+[English]:
+-Fileless Malware Protection: Added Whitelist Command Line.
+-Realtime Protection: Added Automatically scan USB devices.
+-Web Protection: Added an option that allows you to disable the WinDivert driver when your internet being weird.
+
 5.7.4 (22/8/2021):
 [Vietnamese]:
 -Cập nhật menu chuột phải: Từ giờ bạn có thể chọn nhiều file hoặc thư mục để quét từ menu chuột phải.
