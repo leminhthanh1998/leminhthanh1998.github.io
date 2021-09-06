@@ -8,6 +8,14 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.8 (7/9/2021):
+[Vietnamese]:
+-Sau 543 ngày kể từ phiên bản đầu tiên, cuối cùng LMT AntiMalware đã được ký chữ ký số. Rất cảm ơn các mạnh thường quân trên khắp thế giới đã mua cà phê cho mình <3.
+-Bảo vệ duyệt web: Hỗ trợ cú pháp: @@||domain.com để thêm tên miền vào danh sách loại trừ.
+[English]
+-After 543 days since the first version, LMT AntiMalware has finally been digitally signed. Many thanks to the sponsors around the world for buying coffee for me <3.
+-Web Protection: Added support syntax: @@||domain.com to add domain name to exclusion list.
+
 5.7.5 (29/8/2021):
 [Vietnamese]:
 -Bảo vệ khỏi Fileless: Giờ bạn đã có thể loại trừ các câu lệnh thực thi.
