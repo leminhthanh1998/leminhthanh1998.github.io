@@ -14,7 +14,7 @@ Changelog:
 -Bảo vệ duyệt web: Hỗ trợ cú pháp: @@||domain.com để thêm tên miền vào danh sách loại trừ.
 [English]
 -After 543 days since the first version, LMT AntiMalware has finally been digitally signed. Many thanks to the sponsors around the world for buying coffee for me <3.
--Web Protection: Added support syntax: @@||domain.com to add domain name to exclusion list.
+-Web Protection: Added support syntax: @@||domain.com to add domain to exclusion list.
 
 5.7.5 (29/8/2021):
 [Vietnamese]:
