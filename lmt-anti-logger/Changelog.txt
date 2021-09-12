@@ -8,6 +8,14 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.8.1 (12/9/2021):
+[Vietnamese]:
+-CuteDuck engine: Hỗ trợ thêm định dạng .RTF và .LNK
+-Sửa 1 lỗi có thể khiến LMT AntiMalware crash.
+[English]
+-CuteDuck engine: Added support for .RTF and .LNK file.
+-Fixed: Resolves potential program crashes.
+
 5.8 (7/9/2021):
 [Vietnamese]:
 -Sau 543 ngày kể từ phiên bản đầu tiên, cuối cùng LMT AntiMalware đã được ký chữ ký số. Rất cảm ơn các mạnh thường quân trên khắp thế giới đã mua cà phê cho mình <3.
