@@ -13,10 +13,12 @@ Changelog:
 -Quét Malware: Cập nhật tính năng Quét nhanh, từ giờ khi quét nhanh, LMT AntiMalware sẽ quét các tiến trình đang chạy cũng như những tiến trình sẽ khởi động cùng hệ thống (StartupFiles, ShellExecuteHooks, AppCertDlls, ShellServiceObjectDelayLoads, ShellOpenCommands, ScheduledTasks, StartupFilesWinlogonShell, StartupFilesNotify).
 -CuteDuck engine: Sửa 1 lỗi có thể khiến LMT AntiMalware crash.
 -Bổ sung thêm nút Mở thư mục cách ly.
+-Mở Discord server để mọi người tham gia thảo luận: https://discord.gg/B5AWUeHxn6
 [English]
 -Malware Scanner: Updated Quick Scan feature, from now LMT AntiMalware will scan all running processes as well as those that start with the system (StartupFiles, ShellExecuteHooks, AppCertDlls, ShellServiceObjectDelayLoads, ShellOpenCommands, ScheduledTasks, StartupFilesWinlogonShell , StartupFilesNotify).
 -CuteDuck engine:  Resolves potential program crashes.
 -Added "Open the Quarantine folder" button.
+-Open Discord server to discuss: https://discord.gg/B5AWUeHxn6
 
 5.8.1 (12/9/2021):
 [Vietnamese]:
