@@ -11,12 +11,12 @@ Changelog:
 
 5.8.3 (10/10/2021):
 [Vietnamese]:
--Bổ sung engine ClamAV. Khi bạn scan 1 file từ menu chuột phải, LMT AntiMalware sẽ dùng ClamAV để quét nó.
+-Bổ sung engine ClamAV. Khi bạn scan 1 file từ menu chuột phải, LMT AntiMalware sẽ dùng ClamAV để quét nó.(https://imgur.com/a/zaFcXqZ)
 -Bạn có thể thêm nhanh 1 dòng lệnh vào danh sách loại trừ ở của sổ Fileless Malware Protection.
 -Anti Execution: Khi bấm cho phép 1 tiến trình không tin tưởng hoạt động, LMT AntiMalware sẽ khởi chạy nó dùm bạn.
 -Sửa vài lỗi nhỏ khác.
 [English]
--Added ClamAV engine. Now when you scan a file from the right-click context menu, LMT AntiMalware will use ClamAV to scan it.
+-Added ClamAV engine. Now when you scan a file from the right-click context menu, LMT AntiMalware will use ClamAV to scan it.(https://imgur.com/a/zaFcXqZ)
 -You can quickly add a command line to the exclusion list in the Fileless Malware Protection window.
 -Anti Execution: When you click allow an untrusted process to work, LMT AntiMalware will launch it for you.
 -Fixed: Some minor bugs.
