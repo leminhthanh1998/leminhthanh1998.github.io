@@ -1,5 +1,6 @@
 LMT AntiMalware - A software helps protect you from malware. Detect unknown threats, stay protected!
 Website: https://leminhthanh.me/antimalware/
+Discord: https://discord.gg/B5AWUeHxn6
 ----------------------------------
 When installing LMT AntiMalware and meet this error : https://i.imgur.com/fm3ba5O.png
 Please turn off LMT AntiMalware's Self-defense, then restart the computer and install LMT AntiMalware.
@@ -7,6 +8,18 @@ Please turn off LMT AntiMalware's Self-defense, then restart the computer and in
 When installing LMT AntiMalware and meet this error, please click Skip: https://i.imgur.com/lhBqH1N.png
 ----------------------------------
 Changelog:
+
+5.8.3 (10/10/2021):
+[Vietnamese]:
+-Bổ sung engine ClamAV. Khi bạn scan 1 file từ menu chuột phải, LMT AntiMalware sẽ dùng ClamAV để quét nó.
+-Bạn có thể thêm nhanh 1 dòng lệnh vào danh sách loại trừ ở của sổ Fileless Malware Protection.
+-Anti Execution: Khi bấm cho phép 1 tiến trình không tin tưởng hoạt động, LMT AntiMalware sẽ khởi chạy nó dùm bạn.
+-Sửa vài lỗi nhỏ khác.
+[English]
+-Added ClamAV engine. Now when you scan a file from the right-click context menu, LMT AntiMalware will use ClamAV to scan it.
+-You can quickly add a command line to the exclusion list in the Fileless Malware Protection window.
+-Anti Execution: When you click allow an untrusted process to work, LMT AntiMalware will launch it for you.
+-Fixed: Some minor bugs.
 
 5.8.2 (25/9/2021):
 [Vietnamese]:
