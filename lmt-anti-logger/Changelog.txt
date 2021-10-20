@@ -9,6 +9,22 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.8.4 (20/10/2021):
+[Vietnamese]:
+-Bảo vệ thời gian thực: Bổ sung tính năng Tự động quét các tiến trình đáng nghi bằng CloudAV. (https://i.imgur.com/enx7WYu.gif) 
+Nếu CuteDuck engine không nhận diện được file và cảm thấy nó đáng nghi, phần mềm sẽ gửi nó lên CloudAV để quét.
+Lưu ý: Phần mềm chỉ gửi các file thực thi.
+-Bảo vệ thời gian thực: Cải thiện tính năng Phát hiện hành vi.
+-CuteDuck engine: Bây giờ phần mềm sẽ chặn các phần mềm có chữ ký số nằm trong danh sách chặn từ MalwareBazaar.
+-Sửa vài lỗi nhỏ khác.
+[English]
+-Realtime Protection: Added Automatically scan suspicious processes with CloudAV. (https://i.imgur.com/enx7WYu.gif)
+If CuteDuck engine does not recognize the file and finds it suspicious, the software will send it to CloudAV for scanning.
+Note: The software only sends executable files.
+-Realtime Protection: Improved Behavior Detection.
+-CuteDuck engine: Now the software will block application with digital signatures on the block list from MalwareBazaar.
+-Fixed: Some minor bugs.
+
 5.8.3 (10/10/2021):
 [Vietnamese]:
 -Bổ sung engine ClamAV. Khi bạn scan 1 file từ menu chuột phải, LMT AntiMalware sẽ dùng ClamAV để quét nó.(https://imgur.com/a/zaFcXqZ)
