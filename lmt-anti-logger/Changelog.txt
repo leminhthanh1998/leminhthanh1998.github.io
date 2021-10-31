@@ -15,7 +15,7 @@ Changelog:
 -Cập nhật các thư viện.
 [English]
 -Updated Cloud Database to 2.0. Starting November 15, the old Cloud DB will be deprecated, so if you're still using the old version, you won't be able to use Cloud Database.
--Updated software libraries. 
+-Updated: Software libraries. 
 
 5.8.4 (20/10/2021):
 [Vietnamese]:
