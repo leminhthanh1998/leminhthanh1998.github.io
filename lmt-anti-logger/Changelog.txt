@@ -9,6 +9,14 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.8.5 (31/10/2021): PLEASE UPDATE TO THIS VERSION
+[Vietnamese]:
+-Cập nhật CSDL Đám mây phiên bản 2.0. Từ ngày 15/11 CSDL Đám mây phiên bản cũ sẽ tắt do đó nếu vẫn đang sử dụng phiên bản cũ, bạn sẽ không thể sử dụng được CSDL Đám mây.
+-Cập nhật các thư viện.
+[English]
+-Updated Cloud Database to 2.0. Starting November 15, the old Cloud DB will be deprecated, so if you're still using the old version, you won't be able to use Cloud Database.
+-Updated software libraries. 
+
 5.8.4 (20/10/2021):
 [Vietnamese]:
 -Bảo vệ thời gian thực: Bổ sung tính năng Tự động quét các tiến trình đáng nghi bằng CloudAV. (https://i.imgur.com/enx7WYu.gif) 
