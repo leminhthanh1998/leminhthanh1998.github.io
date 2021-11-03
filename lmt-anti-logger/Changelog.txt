@@ -9,6 +9,15 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.8.5.1 (03/11/2021): Please upgrade to this version to be able to use Cloud Database 2.0
+[Vietnamese]:
+-Sửa lỗi LMT AntiMalware crash khi kích hoạt tính năng Tự động bảo vệ.
+-Sửa lỗi LMT AntiMalware không thể khởi động trên 1 số hệ thống.
+[English]
+-Fixed: LMT AntiMalware crashed when Self-Defense was enabled.
+-Fixed: LMT AntiMalware could not start on some systems.
+
+
 5.8.5 (31/10/2021): There was a problem with this version, you should stay on version 5.8.4
 [Vietnamese]:
 -Cập nhật CSDL Đám mây phiên bản 2.0. Từ ngày 15/11 CSDL Đám mây phiên bản cũ sẽ tắt do đó nếu vẫn đang sử dụng phiên bản cũ, bạn sẽ không thể sử dụng được CSDL Đám mây.
