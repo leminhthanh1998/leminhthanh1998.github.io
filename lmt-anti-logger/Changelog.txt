@@ -9,6 +9,16 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.9 (13/11/2021): 
+[Vietnamese]:
+-Bổ sung Everything SDK (1 phần mềm tuyệt vời từ voidtools). Từ giờ khi bạn sử dụng tính năng Quét tùy chọn hoặc quét từ menu chuột phải, phần mềm sẽ sử dụng Everything để truy vấn các tệp tin.
+Lưu ý: Everything cần phải được cài đặt và đang hoạt động để sử dụng tính năng này.
+-Sửa nhiều lỗi khiến LMT AntiMalware crash.
+[English]
+-Added Everything SDK (A great software from voidtools). Now when you use the Custom Scan or scan from the right-click menu, the software will use Everything to query for files.
+Note: Everything needs to be installed and running to use this feature.
+-Fixed: Many bugs that caused LMT AntiMalware to crash.
+
 5.8.5.1 (03/11/2021): Please upgrade to this version to be able to use Cloud Database 2.0
 [Vietnamese]:
 -Sửa lỗi LMT AntiMalware crash khi kích hoạt tính năng Tự động bảo vệ.
