@@ -9,6 +9,16 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.9.0.1 (25/11/2021): 
+[Vietnamese]:
+-Bảo vệ duyệt Web: Sửa lỗi có thể khiến quá trình upload ở các trình duyệt không thành công khi kích hoạt tính năng Bảo vệ duyệt Web.
+-Giao diện: ToggleSwitch đã hỗ trợ đa ngôn ngữ.
+-Sửa 1 lỗi có thể khiến phần mềm crash khi click Dừng quét ở tính năng Malware Scanner. 
+[English]
+-Web Protection: Fixed a bug that could cause upload progress in browsers to fail when Web Protection is enabled.
+-UI: ToggleSwitch has multi-language support.
+-Fixed a bug that could cause the software to crash when clicking Stop in the Malware Scanner page.
+
 5.9 (13/11/2021): 
 [Vietnamese]:
 -Bổ sung Everything SDK (1 phần mềm tuyệt vời từ voidtools). Từ giờ khi bạn sử dụng tính năng Quét tùy chọn hoặc quét từ menu chuột phải, phần mềm sẽ sử dụng Everything để truy vấn các tệp tin.
