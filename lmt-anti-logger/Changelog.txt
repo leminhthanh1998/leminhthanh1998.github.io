@@ -16,7 +16,7 @@ Changelog:
 -Sửa 1 lỗi có thể khiến phần mềm crash khi click Dừng quét ở tính năng Malware Scanner. 
 [English]
 -Web Protection: Fixed a bug that could cause upload progress in browsers to fail when Web Protection is enabled.
--UI: ToggleSwitch has multi-language support.
+-UI: ToggleSwitch now has multi-language support.
 -Fixed a bug that could cause the software to crash when clicking Stop in the Malware Scanner page.
 
 5.9 (13/11/2021): 
