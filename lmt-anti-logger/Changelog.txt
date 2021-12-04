@@ -9,6 +9,14 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.9.1 (4/12/2021): 
+[Vietnamese]:
+-Bảo vệ duyệt Web: Bổ sung thêm tính năng cho phép bạn nhập thêm các bộ lọc Web.
+-Sửa lỗi: LMT AntiMalware có thể crash khi chọn ngày ở trang View Log, khi click chọn ở trang Scan Result, khi click Khởi động cùng Windows ở trang Settings.
+[English]
+-Web Protection: Added a feature that allow you to import external filter lists.
+-Fixed: LMT AntiMalware may crash when selecting a date in the View Log page, when clicking on the Scan Result page, when clicking Start with Windows on the Settings page.
+
 5.9.0.1 (25/11/2021): 
 [Vietnamese]:
 -Bảo vệ duyệt Web: Sửa lỗi có thể khiến quá trình upload ở các trình duyệt không thành công khi kích hoạt tính năng Bảo vệ duyệt Web.
