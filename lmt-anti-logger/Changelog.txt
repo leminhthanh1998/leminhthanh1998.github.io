@@ -19,8 +19,8 @@ Changelog:
 [English]
 -CuteDuck engine: Release and test a new Local Database.
 -Web protection: Fixed a bug in Remove tracking parameters from URLs.
--CuteDuck engine: Fixed an issue where the software might crash when recognizing file types.
--Parental Control: Fixed an issue where the software could crash when generating a password.
+-CuteDuck engine: Fixed a bug that could cause the software to crash when recognizing file types.
+-Parental Control: Fixed a bug that could cause the software to crash when generating a password.
 -Other small improvements.
 
 5.9.1 (4/12/2021): 
