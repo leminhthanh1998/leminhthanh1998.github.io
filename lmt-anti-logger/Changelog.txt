@@ -9,6 +9,20 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+5.9.1.1 (18/12/2021): 
+[Vietnamese]:
+-CuteDuck engine: Phát hành và thử nghiệm CSDL Local mới.
+-Web protection: Sửa lỗi ở tính năng Loại bỏ tham số theo dõi từ URL.
+-CuteDuck engine: Sửa lỗi phần mềm có thể crash khi nhận dạng loại file.
+-Kiểm soát của cha mẹ: Sửa lỗi phần mềm có thể crash khi tạo mật khẩu.
+-Vài cải tiến nhỏ khác.
+[English]
+-CuteDuck engine: Release and test a new Local Database.
+-Web protection: Fixed a bug in Remove tracking parameters from URLs.
+-CuteDuck engine: Fixed an issue where the software might crash when recognizing file types.
+-Parental Control: Fixed an issue where the software could crash when generating a password.
+-Other small improvements.
+
 5.9.1 (4/12/2021): 
 [Vietnamese]:
 -Bảo vệ duyệt Web: Bổ sung thêm tính năng cho phép bạn nhập thêm các bộ lọc Web.
