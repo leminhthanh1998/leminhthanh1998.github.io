@@ -9,6 +9,18 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.0 (4/1/2022): 
+[Vietnamese]:
+-Bổ sung tính năng Quy tắc HIPS. Bạn có thể tạo các quy tắc và áp dụng nó với 6 sự kiện khác nhau, LMT AntiMalware sẽ chặn các sự kiện nếu chúng thỏa các quy tắc.
+-CuteDuck engine: Khi 1 tiến trình .NET load 1 module ở memory, LMT AntiMalware sẽ cố gắng trích xuất module đó và tiền hành quét nó.
+-Vài cải tiến nhỏ khác.
+-Sửa vài lỗi nhỏ khác.
+[English]
+-Added HIPS Rules: You can create rules and apply it to 6 different events, LMT AntiMalware will block the events if they meet the rules.
+-CuteDuck engine: When a .NET process loads a module in memory, LMT AntiMalware will try to extract that module and scan it.
+-Other small improvements.
+-Fixed: Some minor bugs.
+
 5.9.1.1 (18/12/2021): 
 [Vietnamese]:
 -CuteDuck engine: Phát hành và thử nghiệm CSDL Local mới.
