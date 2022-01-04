@@ -16,7 +16,7 @@ Changelog:
 -Vài cải tiến nhỏ khác.
 -Sửa vài lỗi nhỏ khác.
 [English]
--Added HIPS Rules: You can create rules and apply it to 6 different events, LMT AntiMalware will block the events if they meet the rules.
+-Added HIPS Rules: You can create rules and apply them to 6 different events, LMT AntiMalware will block the events if they meet the rules.
 -CuteDuck engine: When a .NET process loads a module in memory, LMT AntiMalware will try to extract that module and scan it.
 -Other small improvements.
 -Fixed: Some minor bugs.
