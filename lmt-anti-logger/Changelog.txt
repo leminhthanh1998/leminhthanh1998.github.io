@@ -9,6 +9,14 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.0.1 (22/1/2022): 
+[Vietnamese]:
+-Quy tắc HIPS: Thay đổi giá trị mặc định của Đường dẫn chương trình từ 'Mặc định: Không có' sang 'Mặc định: Bất kỳ' để có thể tạo các quy tắc mềm dẻo hơn.
+-Sửa vài lỗi nhỏ khác.
+[English]
+-HIPS Rule: Change the default value of Program Path from 'Default: None' to 'Default: Any' to be able to create more flexible rules.
+-Fixed: Some minor bugs.
+
 6.0 (4/1/2022): 
 [Vietnamese]:
 -Bổ sung tính năng Quy tắc HIPS. Bạn có thể tạo các quy tắc và áp dụng nó với 6 sự kiện khác nhau, LMT AntiMalware sẽ chặn các sự kiện nếu chúng thỏa các quy tắc.
