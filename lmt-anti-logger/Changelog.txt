@@ -9,6 +9,18 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.0.2 (11/02/2022): 
+[Vietnamese]:
+-Quy tắc HIPS: Thêm tùy chọn hiển thị/không hiển thị thông báo khi LMT AntiMalware chặn 1 sự kiện.
+-Bảo vệ duyệt web: Thêm tùy chọn cho phép phần mềm lọc tất cả ứng dụng. Lưu ý: LMT AntiMalware hiện chỉ lọc ở cổng 80 và 443.
+-Bàn phím ảo: Bổ sung thêm phím dấu chấm và dấu phẩy.
+-Sửa vài lỗi nhỏ khác.
+[English]
+-HIPS Rule: Added option to show/don't show notifications when LMT AntiMalware blocks an event.
+-Web Protection: Added an option to allow the software to filter all applications. Note: LMT AntiMalware currently only filters on ports 80 and 443.
+-Virtual keyboard: Add dot and comma keys.
+-Fixed: Some minor bugs.
+
 6.0.1 (22/1/2022): 
 [Vietnamese]:
 -Quy tắc HIPS: Thay đổi giá trị mặc định của Đường dẫn chương trình từ 'Mặc định: Không có' sang 'Mặc định: Bất kỳ' để có thể tạo các quy tắc mềm dẻo hơn.
