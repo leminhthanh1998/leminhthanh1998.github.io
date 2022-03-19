@@ -11,6 +11,14 @@ Changelog:
 
 6.0.2 (11/02/2022): 
 [Vietnamese]:
+-CuteDuck: Cải thiện tốc độ quét, nhanh hơn hẳn so với trước đây.
+-Sửa vài lỗi nhỏ khác.
+[English]
+-CuteDuck engine: Improved the custom scan speed by 50% at most
+-Fixed: Some minor bugs.
+
+6.0.2 (11/02/2022): 
+[Vietnamese]:
 -Quy tắc HIPS: Thêm tùy chọn hiển thị/không hiển thị thông báo khi LMT AntiMalware chặn 1 sự kiện.
 -Bảo vệ duyệt web: Thêm tùy chọn cho phép phần mềm lọc tất cả ứng dụng. Lưu ý: LMT AntiMalware hiện chỉ lọc ở cổng 80 và 443.
 -Bàn phím ảo: Bổ sung thêm phím dấu chấm và dấu phẩy.
