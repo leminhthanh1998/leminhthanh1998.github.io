@@ -9,7 +9,7 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
-6.0.2 (11/02/2022): 
+6.1 (19/03/2022): 
 [Vietnamese]:
 -CuteDuck: Cải thiện tốc độ quét, nhanh hơn hẳn so với trước đây.
 -Sửa vài lỗi nhỏ khác.
