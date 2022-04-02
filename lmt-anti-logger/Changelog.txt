@@ -9,12 +9,20 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.1.1 (04/02/2022): 
+[Vietnamese]:
+-CuteDuck: Cải thiện tốc độ quét của tính năng Quét nhanh
+-Sửa vài lỗi nhỏ khác.
+[English]
+-CuteDuck engine: Improved the Quick Scan speed.
+-Fixed: Some minor bugs.
+
 6.1 (19/03/2022): 
 [Vietnamese]:
 -CuteDuck: Cải thiện tốc độ quét, nhanh hơn hẳn so với trước đây.
 -Sửa vài lỗi nhỏ khác.
 [English]
--CuteDuck engine: Improved the custom scan speed by 50% at most
+-CuteDuck engine: Improved the Custom Scan speed by 50% at most
 -Fixed: Some minor bugs.
 
 6.0.2 (11/02/2022): 
