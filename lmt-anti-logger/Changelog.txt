@@ -11,9 +11,9 @@ Changelog:
 
 6.1.3 (23/04/2022): 
 [Vietnamese]:
--Hotfix cho bản 6.1.2
+-Hotfix cho bản 6.1.2. Xin hãy nâng cấp lên bản 6.1.3.
 [English]
--Hotfix for 6.1.2
+-Hotfix for 6.1.2. Please upgrade to version 6.1.3.
 
 6.1.2 (23/04/2022): 
 [Vietnamese]:
