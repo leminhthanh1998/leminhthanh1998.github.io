@@ -9,6 +9,12 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.1.3 (23/04/2022): 
+[Vietnamese]:
+-Hotfix cho bản 6.1.2
+[English]
+-Hotfix for 6.1.2
+
 6.1.2 (23/04/2022): 
 [Vietnamese]:
 -Sửa vài lỗi nhỏ.
