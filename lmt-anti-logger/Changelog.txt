@@ -9,6 +9,16 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.1.4 (07/05/2022): 
+[Vietnamese]:
+-Sửa lỗi phần mềm có thể crash khi chọn thư mục ở tính năng Bảo vệ thư mục, khi bật tính năng Anti Keylogger, khi tắt tính năng Bảo vệ microphone.
+-Cập nhật lên phiên bản .NET Framework 4.8.
+-Vài cập nhật nhỏ khác.
+[English]
+-Fixed: The software might crash when selecting a folder in the Folder Protection feature, when activating the Anti Keylogger feature, when disabling Microphone Guard.
+-Updated to .NET Framework 4.8.
+-A few other minor updates.
+
 6.1.3 (23/04/2022): 
 [Vietnamese]:
 -Hotfix cho bản 6.1.2. Xin hãy nâng cấp lên bản 6.1.3.
