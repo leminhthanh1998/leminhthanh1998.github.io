@@ -9,6 +9,20 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.2 (15/05/2022): 
+[Vietnamese]:
+-Quét Malware: Cải thiện khả năng truy vấn file, tốc độ truy vấn file nhanh hơn hẳn so với trước đây. Ngưng sử dụng công cụ Everything.
+-Cải thiện tính ổn định tính năng Quét Malware.
+-Web Protection: Nếu bạn không thích HTTPS Scanning, bạn có thể sử dụng database của LMT AntiMalware và nhập vào tiện ích chặn quảng cáo trên trình duyệt của bạn.
+-Sửa lỗi thiếu file dll trong file setup.
+-Vài cập nhật nhỏ khác.
+[English]
+-Malware scanning: Improved file querying, file query speed is much faster than before. Stop using the Everything tool.
+-Improved: Malware Scan stability.
+-Web Protection: If you don't like HTTPS Scanning, you can use LMT AntiMalware's database and import into your adblock extension on your browser.
+-Fix missing dll file in setup.
+-A few other minor updates.
+
 6.1.4 (07/05/2022): 
 [Vietnamese]:
 -Sửa lỗi phần mềm có thể crash khi chọn thư mục ở tính năng Bảo vệ thư mục, khi bật tính năng Anti Keylogger, khi tắt tính năng Bảo vệ microphone.
