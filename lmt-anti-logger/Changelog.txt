@@ -19,8 +19,8 @@ Changelog:
 [English]
 -Malware scanning: Improved file querying, file query speed is much faster than before. Stop using the Everything tool.
 -Improved: Malware Scan stability.
--Web Protection: If you don't like HTTPS Scanning, you can use LMT AntiMalware's database and import into your adblock extension on your browser.
--Fix missing dll file in setup.
+-Web Protection: If you don't like HTTPS Scanning, you can use LMT AntiMalware's database and import it into your Adblock extension on your browser.
+-Fix missing DLL file in setup.
 -A few other minor updates.
 
 6.1.4 (07/05/2022): 
