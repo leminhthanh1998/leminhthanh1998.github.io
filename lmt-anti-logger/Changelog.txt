@@ -9,6 +9,12 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.2.1 (16/5/2022):
+[Vietnamese]:
+-Hotfix cho tính năng Machine Learning.
+[English]
+-Hotfix for Machine Learning feature.
+
 6.2 (15/05/2022): 
 [Vietnamese]:
 -Quét Malware: Cải thiện khả năng truy vấn file, tốc độ truy vấn file nhanh hơn hẳn so với trước đây. Ngưng sử dụng công cụ Everything.
