@@ -9,6 +9,18 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.2.2 (29/5/2022):
+[Vietnamese]:
+-Bổ sung Secure Desktop ở tính năng Quản lý mật khẩu, cho phép bạn nhập mật khẩu an toàn.
+-CuteDuck engine: Sửa lỗi khi trích xuất module của tiến trình.
+-Hỗ trợ ghi lại log khi tự động upload file lên Virustotal.
+-Hỗ trợ Yara rules khi quét bằng menu chuột phải.
+[English]
+-Added Secure Desktop to Password Manager, allowing you to enter secure passwords.
+-CuteDuck engine: Fix bug when extracting process module.
+-Support logging when automatically uploading files to Virustotal.
+-Support Yara rules when scanning with right-click menu.
+
 6.2.1 (16/5/2022):
 [Vietnamese]:
 -Hotfix cho tính năng Machine Learning.
