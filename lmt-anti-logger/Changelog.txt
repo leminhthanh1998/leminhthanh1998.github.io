@@ -23,7 +23,6 @@ This list will be synchronized with all users of LMT AntiMalware.
 -Add Cloud Database tab in Settings.
 -CuteDuck engine: Fix errors when scanning CAB files.
 
-
 6.2.2 (29/05/2022):
 [Vietnamese]:
 -Bổ sung Secure Desktop ở tính năng Quản lý mật khẩu, cho phép bạn nhập mật khẩu an toàn.
