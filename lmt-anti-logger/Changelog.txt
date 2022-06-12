@@ -9,7 +9,22 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
-6.2.2 (29/5/2022):
+6.3 (12/06/2022):
+[Vietnamese]:
+-Bổ sung tính năng Tạo danh sách tin tưởng dựa vào kết quả từ Virustotal.
+Dựa vào kết quả quét từ Virustotal, LMT AntiMalware sẽ xây dựng danh sách ứng dụng tin tưởng. Những ứng dụng này sẽ được loại trừ khỏi tính năng Bảo vệ thời gian thực.
+Danh sách này sẽ được đồng bộ với tất cả người dùng của LMT AntiMalware.
+-Thêm tab CSDL đám mây trong phần cài đặt.
+-CuteDuck engine: Sửa lỗi khi quét file CAB.
+[English]:
+-Added feature Create a trust list based on results from Virustotal.
+Based on the scan results from Virustotal, LMT AntiMalware will build a list of trusted applications. These apps will be excluded from Real-Time Protection.
+This list will be synchronized with all users of LMT AntiMalware.
+-Add Cloud Database tab in Settings.
+-CuteDuck engine: Fix errors when scanning CAB files.
+
+
+6.2.2 (29/05/2022):
 [Vietnamese]:
 -Bổ sung Secure Desktop ở tính năng Quản lý mật khẩu, cho phép bạn nhập mật khẩu an toàn.
 -CuteDuck engine: Sửa lỗi khi trích xuất module của tiến trình.
@@ -21,7 +36,7 @@ Changelog:
 -Support logging when automatically uploading files to Virustotal.
 -Support Yara rules when scanning with right-click menu.
 
-6.2.1 (16/5/2022):
+6.2.1 (16/05/2022):
 [Vietnamese]:
 -Hotfix cho tính năng Machine Learning.
 [English]
