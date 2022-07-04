@@ -9,6 +9,14 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.3.1 (04/07/2022):
+[Vietnamese]:
+-CuteDuck engine: Cải thiện khả năng phát hiện tiến trình đáng ngờ.
+-Sửa lỗi ở trang Quét Malware.
+[English]
+-CuteDuck engine: Improved detection of suspicious processes.
+-Fixed a bug on the Malware Scan page.
+
 6.3 (12/06/2022):
 [Vietnamese]:
 -Bổ sung tính năng Tạo danh sách tin tưởng dựa vào kết quả từ Virustotal.
