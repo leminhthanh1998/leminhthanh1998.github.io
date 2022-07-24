@@ -9,6 +9,14 @@ When installing LMT AntiMalware and meet this error, please click Skip: https://
 ----------------------------------
 Changelog:
 
+6.3.2 (24/07/2022):
+[Vietnamese]:
+-Anti-Executable: Chỉ những ứng dụng thuộc Whitelist Cloud (hỗ trợ từ bản 6.3) được khởi chạy.
+-Sửa vài lỗi nhỏ.
+[English]
+-Anti-Executable: Only applications in the Whitelist Cloud (supported from version 6.3) are allowed to launch.
+-Fixed: Some minor bugs.
+
 6.3.1 (04/07/2022):
 [Vietnamese]:
 -CuteDuck engine: Cải thiện khả năng phát hiện tiến trình đáng ngờ.
